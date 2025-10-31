@@ -1,2257 +1,2257 @@
 [
   {
-    "type": "general",
-    "setup": "What did the fish say when it hit the wall?",
-    "punchline": "Dam."
+    "category": "general",
+    "situation": "What did the fish say when it hit the wall?",
+    "culmination": "Dam."
   },
   {
-    "type": "general",
-    "setup": "How do you make a tissue dance?",
-    "punchline": "You put a little boogie on it."
+    "category": "general",
+    "situation": "How do you make a tissue dance?",
+    "culmination": "You put a little boogie on it."
   },
   {
-    "type": "general",
-    "setup": "What's Forrest Gump's password?",
-    "punchline": "1Forrest1"
+    "category": "general",
+    "situation": "What's Forrest Gump's password?",
+    "culmination": "1Forrest1"
   },
   {
-    "type": "general",
-    "setup": "What do you call a belt made out of watches?",
-    "punchline": "A waist of time."
+    "category": "general",
+    "situation": "What do you call a belt made out of watches?",
+    "culmination": "A waist of time."
   },
   {
-    "type": "general",
-    "setup": "Why can't bicycles stand on their own?",
-    "punchline": "They are two tired"
+    "category": "general",
+    "situation": "Why can't bicycles stand on their own?",
+    "culmination": "They are two tired"
   },
   {
-    "type": "general",
-    "setup": "How does a train eat?",
-    "punchline": "It goes chew, chew"
+    "category": "general",
+    "situation": "How does a train eat?",
+    "culmination": "It goes chew, chew"
   },
   {
-    "type": "general",
-    "setup": "What do you call a singing Laptop?",
-    "punchline": "A Dell"
+    "category": "general",
+    "situation": "What do you call a singing Laptop?",
+    "culmination": "A Dell"
   },
   {
-    "type": "general",
-    "setup": "How many lips does a flower have?",
-    "punchline": "Tulips"
+    "category": "general",
+    "situation": "How many lips does a flower have?",
+    "culmination": "Tulips"
   },
   {
-    "type": "general",
-    "setup": "What kind of shoes does a thief wear?",
-    "punchline": "Sneakers"
+    "category": "general",
+    "situation": "What kind of shoes does a thief wear?",
+    "culmination": "Sneakers"
   },
   {
-    "type": "general",
-    "setup": "What's the best time to go to the dentist?",
-    "punchline": "Tooth hurty."
+    "category": "general",
+    "situation": "What's the best time to go to the dentist?",
+    "culmination": "Tooth hurty."
   },
   {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
-    "punchline": "Never mind. It's pointless."
+    "category": "knock-knock",
+    "situation": "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who?",
+    "culmination": "Never mind. It's pointless."
   },
   {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
-    "punchline": "No, cows go moo."
+    "category": "knock-knock",
+    "situation": "Knock knock. \n Who's there? \n Cows go. \n Cows go who?",
+    "culmination": "No, cows go moo."
   },
   {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who?",
-    "punchline": "I didn't know you could yodel!"
+    "category": "knock-knock",
+    "situation": "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who?",
+    "culmination": "I didn't know you could yodel!"
   },
   {
-    "type": "programming",
-    "setup": "Why would a guitarist become a good programmer?",
-    "punchline": "He's adept at riffing in C#."
+    "category": "programming",
+    "situation": "Why would a guitarist become a good programmer?",
+    "culmination": "He's adept at riffing in C#."
   },
   {
-    "type": "programming",
-    "setup": "What's the best thing about a Boolean?",
-    "punchline": "Even if you're wrong, you're only off by a bit."
+    "category": "programming",
+    "situation": "What's the best thing about a Boolean?",
+    "culmination": "Even if you're wrong, you're only off by a bit."
   },
   {
-    "type": "programming",
-    "setup": "What's the object-oriented way to become wealthy?",
-    "punchline": "Inheritance"
+    "category": "programming",
+    "situation": "What's the object-oriented way to become wealthy?",
+    "culmination": "Inheritance"
   },
   {
-    "type": "programming",
-    "setup": "Where do programmers like to hangout?",
-    "punchline": "The Foo Bar."
+    "category": "programming",
+    "situation": "Where do programmers like to hangout?",
+    "culmination": "The Foo Bar."
   },
   {
-    "type": "programming",
-    "setup": "Why did the programmer quit his job?",
-    "punchline": "Because he didn't get arrays."
+    "category": "programming",
+    "situation": "Why did the programmer quit his job?",
+    "culmination": "Because he didn't get arrays."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the two silk worms in a race?",
-    "punchline": "It ended in a tie."
+    "category": "general",
+    "situation": "Did you hear about the two silk worms in a race?",
+    "culmination": "It ended in a tie."
   },
   {
-    "type": "general",
-    "setup": "What do you call a laughing motorcycle?",
-    "punchline": "A Yamahahahaha."
+    "category": "general",
+    "situation": "What do you call a laughing motorcycle?",
+    "culmination": "A Yamahahahaha."
   },
   {
-    "type": "general",
-    "setup": "A termite walks into a bar and says...",
-    "punchline": "'Where is the bar tended?'"
+    "category": "general",
+    "situation": "A termite walks into a bar and says...",
+    "culmination": "'Where is the bar tended?'"
   },
   {
-    "type": "general",
-    "setup": "What does C.S. Lewis keep at the back of his wardrobe?",
-    "punchline": "Narnia business!"
+    "category": "general",
+    "situation": "What does C.S. Lewis keep at the back of his wardrobe?",
+    "culmination": "Narnia business!"
   },
   {
-    "type": "programming",
-    "setup": "A SQL query walks into a bar, walks up to two tables and asks...",
-    "punchline": "'Can I join you?'"
+    "category": "programming",
+    "situation": "A SQL query walks into a bar, walks up to two tables and asks...",
+    "culmination": "'Can I join you?'"
   },
   {
-    "type": "programming",
-    "setup": "How many programmers does it take to change a lightbulb?",
-    "punchline": "None that's a hardware problem"
+    "category": "programming",
+    "situation": "How many programmers does it take to change a lightbulb?",
+    "culmination": "None that's a hardware problem"
   },
   {
-    "type": "programming",
-    "setup": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
-    "punchline": "the rest of them will write Perl"
+    "category": "programming",
+    "situation": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program",
+    "culmination": "the rest of them will write Perl"
   },
   {
-    "type": "programming",
-    "setup": "['hip', 'hip']",
-    "punchline": "(hip hip array)"
+    "category": "programming",
+    "situation": "['hip', 'hip']",
+    "culmination": "(hip hip array)"
   },
   {
-    "type": "programming",
-    "setup": "To understand what recursion is...",
-    "punchline": "You must first understand what recursion is"
+    "category": "programming",
+    "situation": "To understand what recursion is...",
+    "culmination": "You must first understand what recursion is"
   },
   {
-    "type": "programming",
-    "setup": "There are 10 types of people in this world...",
-    "punchline": "Those who understand binary and those who don't"
+    "category": "programming",
+    "situation": "There are 10 types of people in this world...",
+    "culmination": "Those who understand binary and those who don't"
   },
   {
-    "type": "general",
-    "setup": "What did the duck say when he bought lipstick?",
-    "punchline": "Put it on my bill"
+    "category": "general",
+    "situation": "What did the duck say when he bought lipstick?",
+    "culmination": "Put it on my bill"
   },
   {
-    "type": "general",
-    "setup": "What happens to a frog's car when it breaks down?",
-    "punchline": "It gets toad away"
+    "category": "general",
+    "situation": "What happens to a frog's car when it breaks down?",
+    "culmination": "It gets toad away"
   },
   {
-    "type": "general",
-    "setup": "did you know the first French fries weren't cooked in France?",
-    "punchline": "they were cooked in Greece"
+    "category": "general",
+    "situation": "did you know the first French fries weren't cooked in France?",
+    "culmination": "they were cooked in Greece"
   },
   {
-    "type": "programming",
-    "setup": "Which song would an exception sing?",
-    "punchline": "Can't catch me - Avicii"
+    "category": "programming",
+    "situation": "Which song would an exception sing?",
+    "culmination": "Can't catch me - Avicii"
   },
   {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
-    "punchline": "That is impossible. Opportunity doesn’t come knocking twice!"
+    "category": "knock-knock",
+    "situation": "Knock knock. \n Who's there? \n Opportunity.",
+    "culmination": "That is impossible. Opportunity doesn’t come knocking twice!"
   },
   {
-    "type": "programming",
-    "setup": "Why do Java programmers wear glasses?",
-    "punchline": "Because they don't C#."
+    "category": "programming",
+    "situation": "Why do Java programmers wear glasses?",
+    "culmination": "Because they don't C#."
   },
   {
-    "type": "general",
-    "setup": "Why did the mushroom get invited to the party?",
-    "punchline": "Because he was a fungi."
+    "category": "general",
+    "situation": "Why did the mushroom get invited to the party?",
+    "culmination": "Because he was a fungi."
   },
   {
-    "type": "general",
-    "setup": "Do you know what the word 'was' was initially?",
-    "punchline": "Before was was was was was is."
+    "category": "general",
+    "situation": "Do you know what the word 'was' was initially?",
+    "culmination": "Before was was was was was is."
   },
   {
-    "type": "general",
-    "setup": "I'm reading a book about anti-gravity...",
-    "punchline": "It's impossible to put down"
+    "category": "general",
+    "situation": "I'm reading a book about anti-gravity...",
+    "culmination": "It's impossible to put down"
   },
   {
-    "type": "general",
-    "setup": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
-    "punchline": "European"
+    "category": "general",
+    "situation": "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?",
+    "culmination": "European"
   },
   {
-    "type": "general",
-    "setup": "Want to hear a joke about a piece of paper?",
-    "punchline": "Never mind...it's tearable"
+    "category": "general",
+    "situation": "Want to hear a joke about a piece of paper?",
+    "culmination": "Never mind...it's tearable"
   },
   {
-    "type": "general",
-    "setup": "I just watched a documentary about beavers.",
-    "punchline": "It was the best dam show I ever saw"
+    "category": "general",
+    "situation": "I just watched a documentary about beavers.",
+    "culmination": "It was the best dam show I ever saw"
   },
   {
-    "type": "general",
-    "setup": "If you see a robbery at an Apple Store...",
-    "punchline": "Does that make you an iWitness?"
+    "category": "general",
+    "situation": "If you see a robbery at an Apple Store...",
+    "culmination": "Does that make you an iWitness?"
   },
   {
-    "type": "general",
-    "setup": "A ham sandwhich walks into a bar and orders a beer. The bartender says...",
-    "punchline": "I'm sorry, we don't serve food here"
+    "category": "general",
+    "situation": "A ham sandwhich walks into a bar and orders a beer. The bartender says...",
+    "culmination": "I'm sorry, we don't serve food here"
   },
   {
-    "type": "general",
-    "setup": "Why did the Clydesdale give the pony a glass of water?",
-    "punchline": "Because he was a little horse"
+    "category": "general",
+    "situation": "Why did the Clydesdale give the pony a glass of water?",
+    "culmination": "Because he was a little horse"
   },
   {
-    "type": "general",
-    "setup": "If you boil a clown...",
-    "punchline": "Do you get a laughing stock?"
+    "category": "general",
+    "situation": "If you boil a clown...",
+    "culmination": "Do you get a laughing stock?"
   },
   {
-    "type": "general",
-    "setup": "Finally realized why my plant sits around doing nothing all day...",
-    "punchline": "He loves his pot."
+    "category": "general",
+    "situation": "Finally realized why my plant sits around doing nothing all day...",
+    "culmination": "He loves his pot."
   },
   {
-    "type": "general",
-    "setup": "Don't look at the eclipse through a colander.",
-    "punchline": "You'll strain your eyes."
+    "category": "general",
+    "situation": "Don't look at the eclipse through a colander.",
+    "culmination": "You'll strain your eyes."
   },
   {
-    "type": "general",
-    "setup": "I bought some shoes from a drug dealer.",
-    "punchline": "I don't know what he laced them with, but I was tripping all day!"
+    "category": "general",
+    "situation": "I bought some shoes from a drug dealer.",
+    "culmination": "I don't know what he laced them with, but I was tripping all day!"
   },
   {
-    "type": "general",
-    "setup": "Why do chicken coops only have two doors?",
-    "punchline": "Because if they had four, they would be chicken sedans"
+    "category": "general",
+    "situation": "Why do chicken coops only have two doors?",
+    "culmination": "Because if they had four, they would be chicken sedans"
   },
   {
-    "type": "general",
-    "setup": "What do you call a factory that sells passable products?",
-    "punchline": "A satisfactory"
+    "category": "general",
+    "situation": "What do you call a factory that sells passable products?",
+    "culmination": "A satisfactory"
   },
   {
-    "type": "general",
-    "setup": "When a dad drives past a graveyard: Did you know that's a popular cemetery?",
-    "punchline": "Yep, people are just dying to get in there"
+    "category": "general",
+    "situation": "When a dad drives past a graveyard: Did you know that's a popular cemetery?",
+    "culmination": "Yep, people are just dying to get in there"
   },
   {
-    "type": "general",
-    "setup": "Why did the invisible man turn down the job offer?",
-    "punchline": "He couldn't see himself doing it"
+    "category": "general",
+    "situation": "Why did the invisible man turn down the job offer?",
+    "culmination": "He couldn't see himself doing it"
   },
   {
-    "type": "general",
-    "setup": "How do you make holy water?",
-    "punchline": "You boil the hell out of it"
+    "category": "general",
+    "situation": "How do you make holy water?",
+    "culmination": "You boil the hell out of it"
   },
   {
-    "type": "general",
-    "setup": "I had a dream that I was a muffler last night.",
-    "punchline": "I woke up exhausted!"
+    "category": "general",
+    "situation": "I had a dream that I was a muffler last night.",
+    "culmination": "I woke up exhausted!"
   },
   {
-    "type": "general",
-    "setup": "Why is peter pan always flying?",
-    "punchline": "Because he neverlands"
+    "category": "general",
+    "situation": "Why is peter pan always flying?",
+    "culmination": "Because he neverlands"
   },
   {
-    "type": "programming",
-    "setup": "How do you check if a webpage is HTML5?",
-    "punchline": "Try it out on Internet Explorer"
+    "category": "programming",
+    "situation": "How do you check if a webpage is HTML5?",
+    "culmination": "Try it out on Internet Explorer"
   },
   {
-    "type": "general",
-    "setup": "What do you call a cow with no legs?",
-    "punchline": "Ground beef!"
+    "category": "general",
+    "situation": "What do you call a cow with no legs?",
+    "culmination": "Ground beef!"
   },
   {
-    "type": "general",
-    "setup": "I dropped a pear in my car this morning.",
-    "punchline": "You should drop another one, then you would have a pair."
+    "category": "general",
+    "situation": "I dropped a pear in my car this morning.",
+    "culmination": "You should drop another one, then you would have a pair."
   },
   {
-    "type": "programming",
-    "setup": "Lady: How do I spread love in this cruel world?",
-    "punchline": "Random Dude: [...💘]"
+    "category": "programming",
+    "situation": "Lady: How do I spread love in this cruel world?",
+    "culmination": "Random Dude: [...💘]"
   },
   {
-    "type": "programming",
-    "setup": "A user interface is like a joke.",
-    "punchline": "If you have to explain it then it is not that good."
+    "category": "programming",
+    "situation": "A user interface is like a joke.",
+    "culmination": "If you have to explain it then it is not that good."
   },
   {
-    "type": "knock-knock",
-    "setup": "Knock knock. \n Who's there? \n Hatch. \n Hatch who?",
-    "punchline": "Bless you!"
+    "category": "knock-knock",
+    "situation": "Knock knock. \n Who's there? \n Hatch. \n Hatch who?",
+    "culmination": "Bless you!"
   },
   {
-    "type": "general",
-    "setup": "What do you call sad coffee?",
-    "punchline": "Despresso."
+    "category": "general",
+    "situation": "What do you call sad coffee?",
+    "culmination": "Despresso."
   },
   {
-    "type": "general",
-    "setup": "Why did the butcher work extra hours at the shop?",
-    "punchline": "To make ends meat."
+    "category": "general",
+    "situation": "Why did the butcher work extra hours at the shop?",
+    "culmination": "To make ends meat."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the hungry clock?",
-    "punchline": "It went back four seconds."
+    "category": "general",
+    "situation": "Did you hear about the hungry clock?",
+    "culmination": "It went back four seconds."
   },
   {
-    "type": "general",
-    "setup": "Well...",
-    "punchline": "That’s a deep subject."
+    "category": "general",
+    "situation": "Well...",
+    "culmination": "That’s a deep subject."
   },
   {
-    "type": "general",
-    "setup": "Did you hear the story about the cheese that saved the world?",
-    "punchline": "It was legend dairy."
+    "category": "general",
+    "situation": "Did you hear the story about the cheese that saved the world?",
+    "culmination": "It was legend dairy."
   },
   {
-    "type": "general",
-    "setup": "Did you watch the new comic book movie?",
-    "punchline": "It was very graphic!"
+    "category": "general",
+    "situation": "Did you watch the new comic book movie?",
+    "culmination": "It was very graphic!"
   },
   {
-    "type": "general",
-    "setup": "I started a new business making yachts in my attic this year...",
-    "punchline": "The sails are going through the roof."
+    "category": "general",
+    "situation": "I started a new business making yachts in my attic this year...",
+    "culmination": "The sails are going through the roof."
   },
   {
-    "type": "general",
-    "setup": "I got hit in the head by a soda can, but it didn't hurt that much...",
-    "punchline": "It was a soft drink."
+    "category": "general",
+    "situation": "I got hit in the head by a soda can, but it didn't hurt that much...",
+    "culmination": "It was a soft drink."
   },
   {
-    "type": "general",
-    "setup": "I can't tell if i like this blender...",
-    "punchline": "It keeps giving me mixed results."
+    "category": "general",
+    "situation": "I can't tell if i like this blender...",
+    "culmination": "It keeps giving me mixed results."
   },
   {
-    "type": "general",
-    "setup": "I couldn't get a reservation at the library...",
-    "punchline": "They were fully booked."
+    "category": "general",
+    "situation": "I couldn't get a reservation at the library...",
+    "culmination": "They were fully booked."
   },
   {
-    "type": "programming",
-    "setup": "I was gonna tell you a joke about UDP...",
-    "punchline": "...but you might not get it."
+    "category": "programming",
+    "situation": "I was gonna tell you a joke about UDP...",
+    "culmination": "...but you might not get it."
   },
   {
-    "type": "programming",
-    "setup": "The punchline often arrives before the set-up.",
-    "punchline": "Do you know the problem with UDP jokes?"
+    "category": "programming",
+    "situation": "The culmination often arrives before the set-up.",
+    "culmination": "Do you know the problem with UDP jokes?"
   },
   {
-    "type": "programming",
-    "setup": "Why do C# and Java developers keep breaking their keyboards?",
-    "punchline": "Because they use a strongly typed language."
+    "category": "programming",
+    "situation": "Why do C# and Java developers keep breaking their keyboards?",
+    "culmination": "Because they use a strongly typed language."
   },
   {
-    "type": "general",
-    "setup": "What do you give to a lemon in need?",
-    "punchline": "Lemonaid."
+    "category": "general",
+    "situation": "What do you give to a lemon in need?",
+    "culmination": "Lemonaid."
   },
   {
-    "type": "general",
-    "setup": "Never take advice from electrons.",
-    "punchline": "They are always negative."
+    "category": "general",
+    "situation": "Never take advice from electrons.",
+    "culmination": "They are always negative."
   },
   {
-    "type": "general",
-    "setup": "Hey, dad, did you get a haircut?",
-    "punchline": "No, I got them all cut."
+    "category": "general",
+    "situation": "Hey, dad, did you get a haircut?",
+    "culmination": "No, I got them all cut."
   },
   {
-    "type": "general",
-    "setup": "What time is it?",
-    "punchline": "I don't know... it keeps changing."
+    "category": "general",
+    "situation": "What time is it?",
+    "culmination": "I don't know... it keeps changing."
   },
   {
-    "type": "general",
-    "setup": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"",
-    "punchline": "Pop,goes the weasel."
+    "category": "general",
+    "situation": "A weasel walks into a bar. The bartender says, \"Wow, I've never served a weasel before. What can I get for you?\"",
+    "culmination": "Pop,goes the weasel."
   },
   {
-    "type": "general",
-    "setup": "Bad at golf?",
-    "punchline": "Join the club."
+    "category": "general",
+    "situation": "Bad at golf?",
+    "culmination": "Join the club."
   },
   {
-    "type": "general",
-    "setup": "Can a kangaroo jump higher than the Empire State Building?",
-    "punchline": "Of course. The Empire State Building can't jump."
+    "category": "general",
+    "situation": "Can a kangaroo jump higher than the Empire State Building?",
+    "culmination": "Of course. The Empire State Building can't jump."
   },
   {
-    "type": "general",
-    "setup": "Can February march?",
-    "punchline": "No, but April may."
+    "category": "general",
+    "situation": "Can February march?",
+    "culmination": "No, but April may."
   },
   {
-    "type": "general",
-    "setup": "Can I watch the TV?",
-    "punchline": "Yes, but don’t turn it on."
+    "category": "general",
+    "situation": "Can I watch the TV?",
+    "culmination": "Yes, but don’t turn it on."
   },
   {
-    "type": "general",
-    "setup": "Dad, can you put my shoes on?",
-    "punchline": "I don't think they'll fit me."
+    "category": "general",
+    "situation": "Dad, can you put my shoes on?",
+    "culmination": "I don't think they'll fit me."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the bread factory burning down?",
-    "punchline": "They say the business is toast."
+    "category": "general",
+    "situation": "Did you hear about the bread factory burning down?",
+    "culmination": "They say the business is toast."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the chameleon who couldn't change color?",
-    "punchline": "They had a reptile dysfunction."
+    "category": "general",
+    "situation": "Did you hear about the chameleon who couldn't change color?",
+    "culmination": "They had a reptile dysfunction."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the cheese factory that exploded in France?",
-    "punchline": "There was nothing left but de Brie."
+    "category": "general",
+    "situation": "Did you hear about the cheese factory that exploded in France?",
+    "culmination": "There was nothing left but de Brie."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the cow who jumped over the barbed wire fence?",
-    "punchline": "It was udder destruction."
+    "category": "general",
+    "situation": "Did you hear about the cow who jumped over the barbed wire fence?",
+    "culmination": "It was udder destruction."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the guy who invented Lifesavers?",
-    "punchline": "They say he made a mint."
+    "category": "general",
+    "situation": "Did you hear about the guy who invented Lifesavers?",
+    "culmination": "They say he made a mint."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the guy whose whole left side was cut off?",
-    "punchline": "He's all right now."
+    "category": "general",
+    "situation": "Did you hear about the guy whose whole left side was cut off?",
+    "culmination": "He's all right now."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the kidnapping at school?",
-    "punchline": "It's ok, he woke up."
+    "category": "general",
+    "situation": "Did you hear about the kidnapping at school?",
+    "culmination": "It's ok, he woke up."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the Mexican train killer?",
-    "punchline": "He had loco motives"
+    "category": "general",
+    "situation": "Did you hear about the Mexican train killer?",
+    "culmination": "He had loco motives"
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the new restaurant on the moon?",
-    "punchline": "The food is great, but there’s just no atmosphere."
+    "category": "general",
+    "situation": "Did you hear about the new restaurant on the moon?",
+    "culmination": "The food is great, but there’s just no atmosphere."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the runner who was criticized?",
-    "punchline": "He just took it in stride"
+    "category": "general",
+    "situation": "Did you hear about the runner who was criticized?",
+    "culmination": "He just took it in stride"
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the scientist who was lab partners with a pot of boiling water?",
-    "punchline": "He had a very esteemed colleague."
+    "category": "general",
+    "situation": "Did you hear about the scientist who was lab partners with a pot of boiling water?",
+    "culmination": "He had a very esteemed colleague."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the submarine industry?",
-    "punchline": "It really took a dive..."
+    "category": "general",
+    "situation": "Did you hear about the submarine industry?",
+    "culmination": "It really took a dive..."
   },
   {
-    "type": "general",
-    "setup": "Did you hear that David lost his ID in prague?",
-    "punchline": "Now we just have to call him Dav."
+    "category": "general",
+    "situation": "Did you hear that David lost his ID in prague?",
+    "culmination": "Now we just have to call him Dav."
   },
   {
-    "type": "general",
-    "setup": "Did you hear that the police have a warrant out on a midget psychic ripping people off?",
-    "punchline": "It reads \"Small medium at large.\""
+    "category": "general",
+    "situation": "Did you hear that the police have a warrant out on a midget psychic ripping people off?",
+    "culmination": "It reads \"Small medium at large.\""
   },
   {
-    "type": "general",
-    "setup": "Did you hear the joke about the wandering nun?",
-    "punchline": "She was a roman catholic."
+    "category": "general",
+    "situation": "Did you hear the joke about the wandering nun?",
+    "culmination": "She was a roman catholic."
   },
   {
-    "type": "general",
-    "setup": "Did you hear the news?",
-    "punchline": "FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on."
+    "category": "general",
+    "situation": "Did you hear the news?",
+    "culmination": "FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on."
   },
   {
-    "type": "general",
-    "setup": "Did you hear the one about the guy with the broken hearing aid?",
-    "punchline": "Neither did he."
+    "category": "general",
+    "situation": "Did you hear the one about the guy with the broken hearing aid?",
+    "culmination": "Neither did he."
   },
   {
-    "type": "general",
-    "setup": "Did you know crocodiles could grow up to 15 feet?",
-    "punchline": "But most just have 4."
+    "category": "general",
+    "situation": "Did you know crocodiles could grow up to 15 feet?",
+    "culmination": "But most just have 4."
   },
   {
-    "type": "general",
-    "setup": "What do ghosts call their true love?",
-    "punchline": "Their ghoul-friend"
+    "category": "general",
+    "situation": "What do ghosts call their true love?",
+    "culmination": "Their ghoul-friend"
   },
   {
-    "type": "general",
-    "setup": "Did you know that protons have mass?",
-    "punchline": "I didn't even know they were catholic."
+    "category": "general",
+    "situation": "Did you know that protons have mass?",
+    "culmination": "I didn't even know they were catholic."
   },
   {
-    "type": "general",
-    "setup": "Did you know you should always take an extra pair of pants golfing?",
-    "punchline": "Just in case you get a hole in one."
+    "category": "general",
+    "situation": "Did you know you should always take an extra pair of pants golfing?",
+    "culmination": "Just in case you get a hole in one."
   },
   {
-    "type": "general",
-    "setup": "Do I enjoy making courthouse puns?",
-    "punchline": "Guilty"
+    "category": "general",
+    "situation": "Do I enjoy making courthouse puns?",
+    "culmination": "Guilty"
   },
   {
-    "type": "general",
-    "setup": "Do you know where you can get chicken broth in bulk?",
-    "punchline": "The stock market."
+    "category": "general",
+    "situation": "Do you know where you can get chicken broth in bulk?",
+    "culmination": "The stock market."
   },
   {
-    "type": "general",
-    "setup": "Do you want a brief explanation of what an acorn is?",
-    "punchline": "In a nutshell, it's an oak tree."
+    "category": "general",
+    "situation": "Do you want a brief explanation of what an acorn is?",
+    "culmination": "In a nutshell, it's an oak tree."
   },
   {
-    "type": "general",
-    "setup": "Ever wondered why bees hum?",
-    "punchline": "It's because they don't know the words."
+    "category": "general",
+    "situation": "Ever wondered why bees hum?",
+    "culmination": "It's because they don't know the words."
   },
   {
-    "type": "general",
-    "setup": "Have you ever heard of a music group called Cellophane?",
-    "punchline": "They mostly wrap."
+    "category": "general",
+    "situation": "Have you ever heard of a music group called Cellophane?",
+    "culmination": "They mostly wrap."
   },
   {
-    "type": "general",
-    "setup": "Have you heard of the band 1023MB?",
-    "punchline": "They haven't got a gig yet."
+    "category": "general",
+    "situation": "Have you heard of the band 1023MB?",
+    "culmination": "They haven't got a gig yet."
   },
   {
-    "type": "general",
-    "setup": "Have you heard the rumor going around about butter?",
-    "punchline": "Never mind, I shouldn't spread it."
+    "category": "general",
+    "situation": "Have you heard the rumor going around about butter?",
+    "culmination": "Never mind, I shouldn't spread it."
   },
   {
-    "type": "general",
-    "setup": "How are false teeth like stars?",
-    "punchline": "They come out at night!"
+    "category": "general",
+    "situation": "How are false teeth like stars?",
+    "culmination": "They come out at night!"
   },
   {
-    "type": "general",
-    "setup": "How can you tell a vampire has a cold?",
-    "punchline": "They start coffin."
+    "category": "general",
+    "situation": "How can you tell a vampire has a cold?",
+    "culmination": "They start coffin."
   },
   {
-    "type": "general",
-    "setup": "How come a man driving a train got struck by lightning?",
-    "punchline": "He was a good conductor."
+    "category": "general",
+    "situation": "How come a man driving a train got struck by lightning?",
+    "culmination": "He was a good conductor."
   },
   {
-    "type": "general",
-    "setup": "How come the stadium got hot after the game?",
-    "punchline": "Because all of the fans left."
+    "category": "general",
+    "situation": "How come the stadium got hot after the game?",
+    "culmination": "Because all of the fans left."
   },
   {
-    "type": "general",
-    "setup": "How did Darth Vader know what Luke was getting for Christmas?",
-    "punchline": "He felt his presents."
+    "category": "general",
+    "situation": "How did Darth Vader know what Luke was getting for Christmas?",
+    "culmination": "He felt his presents."
   },
   {
-    "type": "general",
-    "setup": "How did the hipster burn the roof of his mouth?",
-    "punchline": "He ate the pizza before it was cool."
+    "category": "general",
+    "situation": "How did the hipster burn the roof of his mouth?",
+    "culmination": "He ate the pizza before it was cool."
   },
   {
-    "type": "general",
-    "setup": "How do hens stay fit?",
-    "punchline": "They always egg-cercise!"
+    "category": "general",
+    "situation": "How do hens stay fit?",
+    "culmination": "They always egg-cercise!"
   },
   {
-    "type": "general",
-    "setup": "How do locomotives know where they're going?",
-    "punchline": "Lots of training"
+    "category": "general",
+    "situation": "How do locomotives know where they're going?",
+    "culmination": "Lots of training"
   },
   {
-    "type": "general",
-    "setup": "How do the trees get on the internet?",
-    "punchline": "They log on."
+    "category": "general",
+    "situation": "How do the trees get on the internet?",
+    "culmination": "They log on."
   },
   {
-    "type": "general",
-    "setup": "How do you find Will Smith in the snow?",
-    "punchline": "Look for fresh prints."
+    "category": "general",
+    "situation": "How do you find Will Smith in the snow?",
+    "culmination": "Look for fresh prints."
   },
   {
-    "type": "general",
-    "setup": "How do you fix a broken pizza?",
-    "punchline": "With tomato paste."
+    "category": "general",
+    "situation": "How do you fix a broken pizza?",
+    "culmination": "With tomato paste."
   },
   {
-    "type": "general",
-    "setup": "How do you fix a damaged jack-o-lantern?",
-    "punchline": "You use a pumpkin patch."
+    "category": "general",
+    "situation": "How do you fix a damaged jack-o-lantern?",
+    "culmination": "You use a pumpkin patch."
   },
   {
-    "type": "general",
-    "setup": "How do you get a baby alien to sleep?",
-    "punchline": "You rocket."
+    "category": "general",
+    "situation": "How do you get a baby alien to sleep?",
+    "culmination": "You rocket."
   },
   {
-    "type": "general",
-    "setup": "How do you get two whales in a car?",
-    "punchline": "Start in England and drive West."
+    "category": "general",
+    "situation": "How do you get two whales in a car?",
+    "culmination": "Start in England and drive West."
   },
   {
-    "type": "general",
-    "setup": "How do you know if there’s an elephant under your bed?",
-    "punchline": "Your head hits the ceiling!"
+    "category": "general",
+    "situation": "How do you know if there’s an elephant under your bed?",
+    "culmination": "Your head hits the ceiling!"
   },
   {
-    "type": "general",
-    "setup": "How do you make a hankie dance?",
-    "punchline": "Put a little boogie in it."
+    "category": "general",
+    "situation": "How do you make a hankie dance?",
+    "culmination": "Put a little boogie in it."
   },
   {
-    "type": "general",
-    "setup": "How good are you at Power Point?",
-    "punchline": "I Excel at it."
+    "category": "general",
+    "situation": "How good are you at Power Point?",
+    "culmination": "I Excel at it."
   },
   {
-    "type": "general",
-    "setup": "How do you organize a space party?",
-    "punchline": "You planet."
+    "category": "general",
+    "situation": "How do you organize a space party?",
+    "culmination": "You planet."
   },
   {
-    "type": "general",
-    "setup": "How do you steal a coat?",
-    "punchline": "You jacket."
+    "category": "general",
+    "situation": "How do you steal a coat?",
+    "culmination": "You jacket."
   },
   {
-    "type": "general",
-    "setup": "How do you tell the difference between a crocodile and an alligator?",
-    "punchline": "You will see one later and one in a while."
+    "category": "general",
+    "situation": "How do you tell the difference between a crocodile and an alligator?",
+    "culmination": "You will see one later and one in a while."
   },
   {
-    "type": "general",
-    "setup": "How does a dyslexic poet write?",
-    "punchline": "Inverse."
+    "category": "general",
+    "situation": "How does a dyslexic poet write?",
+    "culmination": "Inverse."
   },
   {
-    "type": "general",
-    "setup": "How does a French skeleton say hello?",
-    "punchline": "Bone-jour."
+    "category": "general",
+    "situation": "How does a French skeleton say hello?",
+    "culmination": "Bone-jour."
   },
   {
-    "type": "general",
-    "setup": "How does a penguin build it’s house?",
-    "punchline": "Igloos it together."
+    "category": "general",
+    "situation": "How does a penguin build it’s house?",
+    "culmination": "Igloos it together."
   },
   {
-    "type": "general",
-    "setup": "How does a scientist freshen their breath?",
-    "punchline": "With experi-mints!"
+    "category": "general",
+    "situation": "How does a scientist freshen their breath?",
+    "culmination": "With experi-mints!"
   },
   {
-    "type": "general",
-    "setup": "How does the moon cut his hair?",
-    "punchline": "Eclipse it."
+    "category": "general",
+    "situation": "How does the moon cut his hair?",
+    "culmination": "Eclipse it."
   },
   {
-    "type": "general",
-    "setup": "How many apples grow on a tree?",
-    "punchline": "All of them!"
+    "category": "general",
+    "situation": "How many apples grow on a tree?",
+    "culmination": "All of them!"
   },
   {
-    "type": "general",
-    "setup": "How many bones are in the human hand?",
-    "punchline": "A handful of them."
+    "category": "general",
+    "situation": "How many bones are in the human hand?",
+    "culmination": "A handful of them."
   },
   {
-    "type": "general",
-    "setup": "How many hipsters does it take to change a lightbulb?",
-    "punchline": "Oh, it's a really obscure number. You've probably never heard of it."
+    "category": "general",
+    "situation": "How many hipsters does it take to change a lightbulb?",
+    "culmination": "Oh, it's a really obscure number. You've probably never heard of it."
   },
   {
-    "type": "general",
-    "setup": "How many kids with ADD does it take to change a lightbulb?",
-    "punchline": "Let's go ride bikes!"
+    "category": "general",
+    "situation": "How many kids with ADD does it take to change a lightbulb?",
+    "culmination": "Let's go ride bikes!"
   },
   {
-    "type": "general",
-    "setup": "How many optometrists does it take to change a light bulb?",
-    "punchline": "1 or 2? 1... or 2?"
+    "category": "general",
+    "situation": "How many optometrists does it take to change a light bulb?",
+    "culmination": "1 or 2? 1... or 2?"
   },
   {
-    "type": "general",
-    "setup": "How many seconds are in a year?",
-    "punchline": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc"
+    "category": "general",
+    "situation": "How many seconds are in a year?",
+    "culmination": "12. January 2nd, February 2nd, March 2nd, April 2nd.... etc"
   },
   {
-    "type": "general",
-    "setup": "How many tickles does it take to tickle an octopus?",
-    "punchline": "Ten-tickles!"
+    "category": "general",
+    "situation": "How many tickles does it take to tickle an octopus?",
+    "culmination": "Ten-tickles!"
   },
   {
-    "type": "general",
-    "setup": "How much does a hipster weigh?",
-    "punchline": "An instagram."
+    "category": "general",
+    "situation": "How much does a hipster weigh?",
+    "culmination": "An instagram."
   },
   {
-    "type": "general",
-    "setup": "How was the snow globe feeling after the storm?",
-    "punchline": "A little shaken."
+    "category": "general",
+    "situation": "How was the snow globe feeling after the storm?",
+    "culmination": "A little shaken."
   },
   {
-    "type": "general",
-    "setup": "Is the pool safe for diving?",
-    "punchline": "It deep ends."
+    "category": "general",
+    "situation": "Is the pool safe for diving?",
+    "culmination": "It deep ends."
   },
   {
-    "type": "general",
-    "setup": "Is there a hole in your shoe?",
-    "punchline": "No… Then how’d you get your foot in it?"
+    "category": "general",
+    "situation": "Is there a hole in your shoe?",
+    "culmination": "No… Then how’d you get your foot in it?"
   },
   {
-    "type": "general",
-    "setup": "What did the spaghetti say to the other spaghetti?",
-    "punchline": "Pasta la vista, baby!"
+    "category": "general",
+    "situation": "What did the spaghetti say to the other spaghetti?",
+    "culmination": "Pasta la vista, baby!"
   },
   {
-    "type": "general",
-    "setup": "What’s 50 Cent’s name in Zimbabwe?",
-    "punchline": "200 Dollars."
+    "category": "general",
+    "situation": "What’s 50 Cent’s name in Zimbabwe?",
+    "culmination": "200 Dollars."
   },
   {
-    "type": "general",
-    "setup": "Want to hear a chimney joke?",
-    "punchline": "Got stacks of em! First one's on the house"
+    "category": "general",
+    "situation": "Want to hear a chimney joke?",
+    "culmination": "Got stacks of em! First one's on the house"
   },
   {
-    "type": "general",
-    "setup": "Want to hear a joke about construction?",
-    "punchline": "Nah, I'm still working on it."
+    "category": "general",
+    "situation": "Want to hear a joke about construction?",
+    "culmination": "Nah, I'm still working on it."
   },
   {
-    "type": "general",
-    "setup": "Want to hear my pizza joke?",
-    "punchline": "Never mind, it's too cheesy."
+    "category": "general",
+    "situation": "Want to hear my pizza joke?",
+    "culmination": "Never mind, it's too cheesy."
   },
   {
-    "type": "general",
-    "setup": "What animal is always at a game of cricket?",
-    "punchline": "A bat."
+    "category": "general",
+    "situation": "What animal is always at a game of cricket?",
+    "culmination": "A bat."
   },
   {
-    "type": "general",
-    "setup": "What are the strongest days of the week?",
-    "punchline": "Saturday and Sunday...the rest are weekdays."
+    "category": "general",
+    "situation": "What are the strongest days of the week?",
+    "culmination": "Saturday and Sunday...the rest are weekdays."
   },
   {
-    "type": "general",
-    "setup": "What biscuit does a short person like?",
-    "punchline": "Shortbread. "
+    "category": "general",
+    "situation": "What biscuit does a short person like?",
+    "culmination": "Shortbread. "
   },
   {
-    "type": "general",
-    "setup": "What cheese can never be yours?",
-    "punchline": "Nacho cheese."
+    "category": "general",
+    "situation": "What cheese can never be yours?",
+    "culmination": "Nacho cheese."
   },
   {
-    "type": "general",
-    "setup": "What creature is smarter than a talking parrot?",
-    "punchline": "A spelling bee."
+    "category": "general",
+    "situation": "What creature is smarter than a talking parrot?",
+    "culmination": "A spelling bee."
   },
   {
-    "type": "general",
-    "setup": "What did celery say when he broke up with his girlfriend?",
-    "punchline": "She wasn't right for me, so I really don't carrot all."
+    "category": "general",
+    "situation": "What did celery say when he broke up with his girlfriend?",
+    "culmination": "She wasn't right for me, so I really don't carrot all."
   },
   {
-    "type": "general",
-    "setup": "What did Michael Jackson name his denim store?",
-    "punchline": "Billy Jeans!"
+    "category": "general",
+    "situation": "What did Michael Jackson name his denim store?",
+    "culmination": "Billy Jeans!"
   },
   {
-    "type": "general",
-    "setup": "What did one nut say as he chased another nut?",
-    "punchline": "I'm a cashew!"
+    "category": "general",
+    "situation": "What did one nut say as he chased another nut?",
+    "culmination": "I'm a cashew!"
   },
   {
-    "type": "general",
-    "setup": "What did one plate say to the other plate?",
-    "punchline": "Dinner is on me!"
+    "category": "general",
+    "situation": "What did one plate say to the other plate?",
+    "culmination": "Dinner is on me!"
   },
   {
-    "type": "general",
-    "setup": "What did one snowman say to the other snow man?",
-    "punchline": "Do you smell carrot?"
+    "category": "general",
+    "situation": "What did one snowman say to the other snow man?",
+    "culmination": "Do you smell carrot?"
   },
   {
-    "type": "general",
-    "setup": "What did one wall say to the other wall?",
-    "punchline": "I'll meet you at the corner!"
+    "category": "general",
+    "situation": "What did one wall say to the other wall?",
+    "culmination": "I'll meet you at the corner!"
   },
   {
-    "type": "general",
-    "setup": "What did Romans use to cut pizza before the rolling cutter was invented?",
-    "punchline": "Lil Caesars"
+    "category": "general",
+    "situation": "What did Romans use to cut pizza before the rolling cutter was invented?",
+    "culmination": "Lil Caesars"
   },
   {
-    "type": "general",
-    "setup": "What did the 0 say to the 8?",
-    "punchline": "Nice belt."
+    "category": "general",
+    "situation": "What did the 0 say to the 8?",
+    "culmination": "Nice belt."
   },
   {
-    "type": "general",
-    "setup": "What did the beaver say to the tree?",
-    "punchline": "It's been nice gnawing you."
+    "category": "general",
+    "situation": "What did the beaver say to the tree?",
+    "culmination": "It's been nice gnawing you."
   },
   {
-    "type": "general",
-    "setup": "What did the big flower say to the littler flower?",
-    "punchline": "Hi, bud!"
+    "category": "general",
+    "situation": "What did the big flower say to the littler flower?",
+    "culmination": "Hi, bud!"
   },
   {
-    "type": "general",
-    "setup": "What did the Buffalo say to his little boy when he dropped him off at school?",
-    "punchline": "Bison."
+    "category": "general",
+    "situation": "What did the Buffalo say to his little boy when he dropped him off at school?",
+    "culmination": "Bison."
   },
   {
-    "type": "general",
-    "setup": "What did the digital clock say to the grandfather clock?",
-    "punchline": "Look, no hands!"
+    "category": "general",
+    "situation": "What did the digital clock say to the grandfather clock?",
+    "culmination": "Look, no hands!"
   },
   {
-    "type": "general",
-    "setup": "What did the dog say to the two trees?",
-    "punchline": "Bark bark."
+    "category": "general",
+    "situation": "What did the dog say to the two trees?",
+    "culmination": "Bark bark."
   },
   {
-    "type": "general",
-    "setup": "What did the Dorito farmer say to the other Dorito farmer?",
-    "punchline": "Cool Ranch!"
+    "category": "general",
+    "situation": "What did the Dorito farmer say to the other Dorito farmer?",
+    "culmination": "Cool Ranch!"
   },
   {
-    "type": "general",
-    "setup": "What did the fish say when it swam into a wall?",
-    "punchline": "Damn!"
+    "category": "general",
+    "situation": "What did the fish say when it swam into a wall?",
+    "culmination": "Damn!"
   },
   {
-    "type": "general",
-    "setup": "What did the grape do when he got stepped on?",
-    "punchline": "He let out a little wine."
+    "category": "general",
+    "situation": "What did the grape do when he got stepped on?",
+    "culmination": "He let out a little wine."
   },
   {
-    "type": "general",
-    "setup": "What did the judge say to the dentist?",
-    "punchline": "Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
+    "category": "general",
+    "situation": "What did the judge say to the dentist?",
+    "culmination": "Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
   },
   {
-    "type": "general",
-    "setup": "What did the late tomato say to the early tomato?",
-    "punchline": "I’ll ketch up"
+    "category": "general",
+    "situation": "What did the late tomato say to the early tomato?",
+    "culmination": "I’ll ketch up"
   },
   {
-    "type": "general",
-    "setup": "What did the left eye say to the right eye?",
-    "punchline": "Between us, something smells!"
+    "category": "general",
+    "situation": "What did the left eye say to the right eye?",
+    "culmination": "Between us, something smells!"
   },
   {
-    "type": "general",
-    "setup": "What did the mountain climber name his son?",
-    "punchline": "Cliff."
+    "category": "general",
+    "situation": "What did the mountain climber name his son?",
+    "culmination": "Cliff."
   },
   {
-    "type": "general",
-    "setup": "What did the ocean say to the beach?",
-    "punchline": "Thanks for all the sediment."
+    "category": "general",
+    "situation": "What did the ocean say to the beach?",
+    "culmination": "Thanks for all the sediment."
   },
   {
-    "type": "general",
-    "setup": "What did the ocean say to the shore?",
-    "punchline": "Nothing, it just waved."
+    "category": "general",
+    "situation": "What did the ocean say to the shore?",
+    "culmination": "Nothing, it just waved."
   },
   {
-    "type": "general",
-    "setup": "Why don't you find hippopotamuses hiding in trees?",
-    "punchline": "They're really good at it."
+    "category": "general",
+    "situation": "Why don't you find hippopotamuses hiding in trees?",
+    "culmination": "They're really good at it."
   },
   {
-    "type": "general",
-    "setup": "What did the pirate say on his 80th birthday?",
-    "punchline": "Aye Matey!"
+    "category": "general",
+    "situation": "What did the pirate say on his 80th birthday?",
+    "culmination": "Aye Matey!"
   },
   {
-    "type": "general",
-    "setup": "What did the Red light say to the Green light?",
-    "punchline": "Don't look at me I'm changing!"
+    "category": "general",
+    "situation": "What did the Red light say to the Green light?",
+    "culmination": "Don't look at me I'm changing!"
   },
   {
-    "type": "general",
-    "setup": "What did the scarf say to the hat?",
-    "punchline": "You go on ahead, I am going to hang around a bit longer."
+    "category": "general",
+    "situation": "What did the scarf say to the hat?",
+    "culmination": "You go on ahead, I am going to hang around a bit longer."
   },
   {
-    "type": "general",
-    "setup": "What did the shy pebble wish for?",
-    "punchline": "That she was a little boulder."
+    "category": "general",
+    "situation": "What did the shy pebble wish for?",
+    "culmination": "That she was a little boulder."
   },
   {
-    "type": "general",
-    "setup": "What did the traffic light say to the car as it passed?",
-    "punchline": "Don't look I'm changing!"
+    "category": "general",
+    "situation": "What did the traffic light say to the car as it passed?",
+    "culmination": "Don't look I'm changing!"
   },
   {
-    "type": "general",
-    "setup": "What did the Zen Buddist say to the hotdog vendor?",
-    "punchline": "Make me one with everything."
+    "category": "general",
+    "situation": "What did the Zen Buddist say to the hotdog vendor?",
+    "culmination": "Make me one with everything."
   },
   {
-    "type": "general",
-    "setup": "What do birds give out on Halloween?",
-    "punchline": "Tweets."
+    "category": "general",
+    "situation": "What do birds give out on Halloween?",
+    "culmination": "Tweets."
   },
   {
-    "type": "general",
-    "setup": "What do I look like?",
-    "punchline": "A JOKE MACHINE!?"
+    "category": "general",
+    "situation": "What do I look like?",
+    "culmination": "A JOKE MACHINE!?"
   },
   {
-    "type": "general",
-    "setup": "What do prisoners use to call each other?",
-    "punchline": "Cell phones."
+    "category": "general",
+    "situation": "What do prisoners use to call each other?",
+    "culmination": "Cell phones."
   },
   {
-    "type": "general",
-    "setup": "What do vegetarian zombies eat?",
-    "punchline": "Grrrrrainnnnnssss."
+    "category": "general",
+    "situation": "What do vegetarian zombies eat?",
+    "culmination": "Grrrrrainnnnnssss."
   },
   {
-    "type": "general",
-    "setup": "What do you call a bear with no teeth?",
-    "punchline": "A gummy bear!"
+    "category": "general",
+    "situation": "What do you call a bear with no teeth?",
+    "culmination": "A gummy bear!"
   },
   {
-    "type": "general",
-    "setup": "What do you call a bee that lives in America?",
-    "punchline": "A USB."
+    "category": "general",
+    "situation": "What do you call a bee that lives in America?",
+    "culmination": "A USB."
   },
   {
-    "type": "general",
-    "setup": "What do you call a boomerang that won't come back?",
-    "punchline": "A stick."
+    "category": "general",
+    "situation": "What do you call a boomerang that won't come back?",
+    "culmination": "A stick."
   },
   {
-    "type": "general",
-    "setup": "What do you call a careful wolf?",
-    "punchline": "Aware wolf."
+    "category": "general",
+    "situation": "What do you call a careful wolf?",
+    "culmination": "Aware wolf."
   },
   {
-    "type": "general",
-    "setup": "What do you call a cow on a trampoline?",
-    "punchline": "A milk shake!"
+    "category": "general",
+    "situation": "What do you call a cow on a trampoline?",
+    "culmination": "A milk shake!"
   },
   {
-    "type": "general",
-    "setup": "What do you call a cow with two legs?",
-    "punchline": "Lean beef."
+    "category": "general",
+    "situation": "What do you call a cow with two legs?",
+    "culmination": "Lean beef."
   },
   {
-    "type": "general",
-    "setup": "What do you call a crowd of chess players bragging about their wins in a hotel lobby?",
-    "punchline": "Chess nuts boasting in an open foyer."
+    "category": "general",
+    "situation": "What do you call a crowd of chess players bragging about their wins in a hotel lobby?",
+    "culmination": "Chess nuts boasting in an open foyer."
   },
   {
-    "type": "general",
-    "setup": "What do you call a dad that has fallen through the ice?",
-    "punchline": "A Popsicle."
+    "category": "general",
+    "situation": "What do you call a dad that has fallen through the ice?",
+    "culmination": "A Popsicle."
   },
   {
-    "type": "general",
-    "setup": "What do you call a dictionary on drugs?",
-    "punchline": "High definition."
+    "category": "general",
+    "situation": "What do you call a dictionary on drugs?",
+    "culmination": "High definition."
   },
   {
-    "type": "general",
-    "setup": "what do you call a dog that can do magic tricks?",
-    "punchline": "a labracadabrador"
+    "category": "general",
+    "situation": "what do you call a dog that can do magic tricks?",
+    "culmination": "a labracadabrador"
   },
   {
-    "type": "general",
-    "setup": "What do you call a droid that takes the long way around?",
-    "punchline": "R2 detour."
+    "category": "general",
+    "situation": "What do you call a droid that takes the long way around?",
+    "culmination": "R2 detour."
   },
   {
-    "type": "general",
-    "setup": "What do you call a duck that gets all A's?",
-    "punchline": "A wise quacker."
+    "category": "general",
+    "situation": "What do you call a duck that gets all A's?",
+    "culmination": "A wise quacker."
   },
   {
-    "type": "general",
-    "setup": "What do you call a fake noodle?",
-    "punchline": "An impasta."
+    "category": "general",
+    "situation": "What do you call a fake noodle?",
+    "culmination": "An impasta."
   },
   {
-    "type": "general",
-    "setup": "What do you call a fashionable lawn statue with an excellent sense of rhythmn?",
-    "punchline": "A metro-gnome"
+    "category": "general",
+    "situation": "What do you call a fashionable lawn statue with an excellent sense of rhythmn?",
+    "culmination": "A metro-gnome"
   },
   {
-    "type": "general",
-    "setup": "What do you call a fat psychic?",
-    "punchline": "A four-chin teller."
+    "category": "general",
+    "situation": "What do you call a fat psychic?",
+    "culmination": "A four-chin teller."
   },
   {
-    "type": "general",
-    "setup": "What do you call a fly without wings?",
-    "punchline": "A walk."
+    "category": "general",
+    "situation": "What do you call a fly without wings?",
+    "culmination": "A walk."
   },
   {
-    "type": "general",
-    "setup": "What do you call a girl between two posts?",
-    "punchline": "Annette."
+    "category": "general",
+    "situation": "What do you call a girl between two posts?",
+    "culmination": "Annette."
   },
   {
-    "type": "general",
-    "setup": "What do you call a group of disorganized cats?",
-    "punchline": "A cat-tastrophe."
+    "category": "general",
+    "situation": "What do you call a group of disorganized cats?",
+    "culmination": "A cat-tastrophe."
   },
   {
-    "type": "general",
-    "setup": "What do you call a group of killer whales playing instruments?",
-    "punchline": "An Orca-stra."
+    "category": "general",
+    "situation": "What do you call a group of killer whales playing instruments?",
+    "culmination": "An Orca-stra."
   },
   {
-    "type": "general",
-    "setup": "What do you call a monkey in a mine field?",
-    "punchline": "A babooooom!"
+    "category": "general",
+    "situation": "What do you call a monkey in a mine field?",
+    "culmination": "A babooooom!"
   },
   {
-    "type": "general",
-    "setup": "What do you call a nervous javelin thrower?",
-    "punchline": "Shakespeare."
+    "category": "general",
+    "situation": "What do you call a nervous javelin thrower?",
+    "culmination": "Shakespeare."
   },
   {
-    "type": "general",
-    "setup": "What do you call a pig that knows karate?",
-    "punchline": "A pork chop!"
+    "category": "general",
+    "situation": "What do you call a pig that knows karate?",
+    "culmination": "A pork chop!"
   },
   {
-    "type": "general",
-    "setup": "What do you call a pig with three eyes?",
-    "punchline": "Piiig"
+    "category": "general",
+    "situation": "What do you call a pig with three eyes?",
+    "culmination": "Piiig"
   },
   {
-    "type": "general",
-    "setup": "What do you call a pile of cats?",
-    "punchline": "A Meowtain."
+    "category": "general",
+    "situation": "What do you call a pile of cats?",
+    "culmination": "A Meowtain."
   },
   {
-    "type": "general",
-    "setup": "What do you call a sheep with no legs?",
-    "punchline": "A cloud."
+    "category": "general",
+    "situation": "What do you call a sheep with no legs?",
+    "culmination": "A cloud."
   },
   {
-    "type": "general",
-    "setup": "What do you call a troublesome Canadian high schooler?",
-    "punchline": "A poutine."
+    "category": "general",
+    "situation": "What do you call a troublesome Canadian high schooler?",
+    "culmination": "A poutine."
   },
   {
-    "type": "general",
-    "setup": "What do you call an alligator in a vest?",
-    "punchline": "An in-vest-igator!"
+    "category": "general",
+    "situation": "What do you call an alligator in a vest?",
+    "culmination": "An in-vest-igator!"
   },
   {
-    "type": "general",
-    "setup": "What do you call an Argentinian with a rubber toe?",
-    "punchline": "Roberto"
+    "category": "general",
+    "situation": "What do you call an Argentinian with a rubber toe?",
+    "culmination": "Roberto"
   },
   {
-    "type": "general",
-    "setup": "What do you call an eagle who can play the piano?",
-    "punchline": "Talonted!"
+    "category": "general",
+    "situation": "What do you call an eagle who can play the piano?",
+    "culmination": "Talonted!"
   },
   {
-    "type": "general",
-    "setup": "What do you call an elephant that doesn’t matter?",
-    "punchline": "An irrelephant."
+    "category": "general",
+    "situation": "What do you call an elephant that doesn’t matter?",
+    "culmination": "An irrelephant."
   },
   {
-    "type": "general",
-    "setup": "What do you call an old snowman?",
-    "punchline": "Water."
+    "category": "general",
+    "situation": "What do you call an old snowman?",
+    "culmination": "Water."
   },
   {
-    "type": "general",
-    "setup": "What do you call cheese by itself?",
-    "punchline": "Provolone."
+    "category": "general",
+    "situation": "What do you call cheese by itself?",
+    "culmination": "Provolone."
   },
   {
-    "type": "general",
-    "setup": "What do you call corn that joins the army?",
-    "punchline": "Kernel."
+    "category": "general",
+    "situation": "What do you call corn that joins the army?",
+    "culmination": "Kernel."
   },
   {
-    "type": "general",
-    "setup": "What do you call someone with no nose?",
-    "punchline": "Nobody knows."
+    "category": "general",
+    "situation": "What do you call someone with no nose?",
+    "culmination": "Nobody knows."
   },
   {
-    "type": "general",
-    "setup": "What do you call two barracuda fish?",
-    "punchline": "A Pairacuda!"
+    "category": "general",
+    "situation": "What do you call two barracuda fish?",
+    "culmination": "A Pairacuda!"
   },
   {
-    "type": "general",
-    "setup": "What do you do on a remote island?",
-    "punchline": "Try and find the TV island it belongs to."
+    "category": "general",
+    "situation": "What do you do on a remote island?",
+    "culmination": "Try and find the TV island it belongs to."
   },
   {
-    "type": "general",
-    "setup": "What do you do when you see a space man?",
-    "punchline": "Park your car, man."
+    "category": "general",
+    "situation": "What do you do when you see a space man?",
+    "culmination": "Park your car, man."
   },
   {
-    "type": "general",
-    "setup": "What do you get hanging from Apple trees?",
-    "punchline": "Sore arms."
+    "category": "general",
+    "situation": "What do you get hanging from Apple trees?",
+    "culmination": "Sore arms."
   },
   {
-    "type": "general",
-    "setup": "What do you get when you cross a bee and a sheep?",
-    "punchline": "A bah-humbug."
+    "category": "general",
+    "situation": "What do you get when you cross a bee and a sheep?",
+    "culmination": "A bah-humbug."
   },
   {
-    "type": "general",
-    "setup": "What do you get when you cross a chicken with a skunk?",
-    "punchline": "A fowl smell!"
+    "category": "general",
+    "situation": "What do you get when you cross a chicken with a skunk?",
+    "culmination": "A fowl smell!"
   },
   {
-    "type": "general",
-    "setup": "What do you get when you cross a rabbit with a water hose?",
-    "punchline": "Hare spray."
+    "category": "general",
+    "situation": "What do you get when you cross a rabbit with a water hose?",
+    "culmination": "Hare spray."
   },
   {
-    "type": "general",
-    "setup": "What do you get when you cross a snowman with a vampire?",
-    "punchline": "Frostbite."
+    "category": "general",
+    "situation": "What do you get when you cross a snowman with a vampire?",
+    "culmination": "Frostbite."
   },
   {
-    "type": "general",
-    "setup": "What do you give a sick lemon?",
-    "punchline": "Lemonaid."
+    "category": "general",
+    "situation": "What do you give a sick lemon?",
+    "culmination": "Lemonaid."
   },
   {
-    "type": "general",
-    "setup": "What does a clock do when it's hungry?",
-    "punchline": "It goes back four seconds!"
+    "category": "general",
+    "situation": "What does a clock do when it's hungry?",
+    "culmination": "It goes back four seconds!"
   },
   {
-    "type": "general",
-    "setup": "What does a pirate pay for his corn?",
-    "punchline": "A buccaneer!"
+    "category": "general",
+    "situation": "What does a pirate pay for his corn?",
+    "culmination": "A buccaneer!"
   },
   {
-    "type": "general",
-    "setup": "What does an angry pepper do?",
-    "punchline": "It gets jalapeño face."
+    "category": "general",
+    "situation": "What does an angry pepper do?",
+    "culmination": "It gets jalapeño face."
   },
   {
-    "type": "general",
-    "setup": "What happens when you anger a brain surgeon?",
-    "punchline": "They will give you a piece of your mind."
+    "category": "general",
+    "situation": "What happens when you anger a brain surgeon?",
+    "culmination": "They will give you a piece of your mind."
   },
   {
-    "type": "general",
-    "setup": "What has ears but cannot hear?",
-    "punchline": "A field of corn."
+    "category": "general",
+    "situation": "What has ears but cannot hear?",
+    "culmination": "A field of corn."
   },
   {
-    "type": "general",
-    "setup": "What is a centipedes's favorite Beatle song?",
-    "punchline": "I want to hold your hand, hand, hand, hand..."
+    "category": "general",
+    "situation": "What is a centipedes's favorite Beatle song?",
+    "culmination": "I want to hold your hand, hand, hand, hand..."
   },
   {
-    "type": "general",
-    "setup": "What is a tornado's favorite game to play?",
-    "punchline": "Twister!"
+    "category": "general",
+    "situation": "What is a tornado's favorite game to play?",
+    "culmination": "Twister!"
   },
   {
-    "type": "general",
-    "setup": "What is a vampire's favorite fruit?",
-    "punchline": "A blood orange."
+    "category": "general",
+    "situation": "What is a vampire's favorite fruit?",
+    "culmination": "A blood orange."
   },
   {
-    "type": "general",
-    "setup": "What is a witch's favorite subject in school?",
-    "punchline": "Spelling!"
+    "category": "general",
+    "situation": "What is a witch's favorite subject in school?",
+    "culmination": "Spelling!"
   },
   {
-    "type": "general",
-    "setup": "What is red and smells like blue paint?",
-    "punchline": "Red paint!"
+    "category": "general",
+    "situation": "What is red and smells like blue paint?",
+    "culmination": "Red paint!"
   },
   {
-    "type": "general",
-    "setup": "What is the difference between ignorance and apathy?",
-    "punchline": "I don't know and I don't care."
+    "category": "general",
+    "situation": "What is the difference between ignorance and apathy?",
+    "culmination": "I don't know and I don't care."
   },
   {
-    "type": "general",
-    "setup": "What is the hardest part about sky diving?",
-    "punchline": "The ground."
+    "category": "general",
+    "situation": "What is the hardest part about sky diving?",
+    "culmination": "The ground."
   },
   {
-    "type": "general",
-    "setup": "What is the leading cause of dry skin?",
-    "punchline": "Towels"
+    "category": "general",
+    "situation": "What is the leading cause of dry skin?",
+    "culmination": "Towels"
   },
   {
-    "type": "general",
-    "setup": "What is the least spoken language in the world?",
-    "punchline": "Sign Language"
+    "category": "general",
+    "situation": "What is the least spoken language in the world?",
+    "culmination": "Sign Language"
   },
   {
-    "type": "general",
-    "setup": "What is the tallest building in the world?",
-    "punchline": "The library, it’s got the most stories!"
+    "category": "general",
+    "situation": "What is the tallest building in the world?",
+    "culmination": "The library, it’s got the most stories!"
   },
   {
-    "type": "general",
-    "setup": "What is this movie about?",
-    "punchline": "It is about 2 hours long."
+    "category": "general",
+    "situation": "What is this movie about?",
+    "culmination": "It is about 2 hours long."
   },
   {
-    "type": "general",
-    "setup": "What kind of award did the dentist receive?",
-    "punchline": "A little plaque."
+    "category": "general",
+    "situation": "What kind of award did the dentist receive?",
+    "culmination": "A little plaque."
   },
   {
-    "type": "general",
-    "setup": "What kind of bagel can fly?",
-    "punchline": "A plain bagel."
+    "category": "general",
+    "situation": "What kind of bagel can fly?",
+    "culmination": "A plain bagel."
   },
   {
-    "type": "general",
-    "setup": "What kind of dinosaur loves to sleep?",
-    "punchline": "A stega-snore-us."
+    "category": "general",
+    "situation": "What kind of dinosaur loves to sleep?",
+    "culmination": "A stega-snore-us."
   },
   {
-    "type": "general",
-    "setup": "What kind of dog lives in a particle accelerator?",
-    "punchline": "A Fermilabrador Retriever."
+    "category": "general",
+    "situation": "What kind of dog lives in a particle accelerator?",
+    "culmination": "A Fermilabrador Retriever."
   },
   {
-    "type": "general",
-    "setup": "What kind of magic do cows believe in?",
-    "punchline": "MOODOO."
+    "category": "general",
+    "situation": "What kind of magic do cows believe in?",
+    "culmination": "MOODOO."
   },
   {
-    "type": "general",
-    "setup": "What kind of music do planets listen to?",
-    "punchline": "Nep-tunes."
+    "category": "general",
+    "situation": "What kind of music do planets listen to?",
+    "culmination": "Nep-tunes."
   },
   {
-    "type": "general",
-    "setup": "What kind of pants do ghosts wear?",
-    "punchline": "Boo jeans."
+    "category": "general",
+    "situation": "What kind of pants do ghosts wear?",
+    "culmination": "Boo jeans."
   },
   {
-    "type": "general",
-    "setup": "What kind of tree fits in your hand?",
-    "punchline": "A palm tree!"
+    "category": "general",
+    "situation": "What kind of tree fits in your hand?",
+    "culmination": "A palm tree!"
   },
   {
-    "type": "general",
-    "setup": "What lies at the bottom of the ocean and twitches?",
-    "punchline": "A nervous wreck."
+    "category": "general",
+    "situation": "What lies at the bottom of the ocean and twitches?",
+    "culmination": "A nervous wreck."
   },
   {
-    "type": "general",
-    "setup": "What musical instrument is found in the bathroom?",
-    "punchline": "A tuba toothpaste."
+    "category": "general",
+    "situation": "What musical instrument is found in the bathroom?",
+    "culmination": "A tuba toothpaste."
   },
   {
-    "type": "general",
-    "setup": "What time did the man go to the dentist?",
-    "punchline": "Tooth hurt-y."
+    "category": "general",
+    "situation": "What time did the man go to the dentist?",
+    "culmination": "Tooth hurt-y."
   },
   {
-    "type": "general",
-    "setup": "What type of music do balloons hate?",
-    "punchline": "Pop music!"
+    "category": "general",
+    "situation": "What category of music do balloons hate?",
+    "culmination": "Pop music!"
   },
   {
-    "type": "general",
-    "setup": "What was a more important invention than the first telephone?",
-    "punchline": "The second one."
+    "category": "general",
+    "situation": "What was a more important invention than the first telephone?",
+    "culmination": "The second one."
   },
   {
-    "type": "general",
-    "setup": "What was the pumpkin’s favorite sport?",
-    "punchline": "Squash."
+    "category": "general",
+    "situation": "What was the pumpkin’s favorite sport?",
+    "culmination": "Squash."
   },
   {
-    "type": "general",
-    "setup": "What's black and white and read all over?",
-    "punchline": "The newspaper."
+    "category": "general",
+    "situation": "What's black and white and read all over?",
+    "culmination": "The newspaper."
   },
   {
-    "type": "general",
-    "setup": "What's blue and not very heavy?",
-    "punchline": "Light blue."
+    "category": "general",
+    "situation": "What's blue and not very heavy?",
+    "culmination": "Light blue."
   },
   {
-    "type": "general",
-    "setup": "What's brown and sticky?",
-    "punchline": "A stick."
+    "category": "general",
+    "situation": "What's brown and sticky?",
+    "culmination": "A stick."
   },
   {
-    "type": "general",
-    "setup": "What's orange and sounds like a parrot?",
-    "punchline": "A Carrot."
+    "category": "general",
+    "situation": "What's orange and sounds like a parrot?",
+    "culmination": "A Carrot."
   },
   {
-    "type": "general",
-    "setup": "What's red and bad for your teeth?",
-    "punchline": "A Brick."
+    "category": "general",
+    "situation": "What's red and bad for your teeth?",
+    "culmination": "A Brick."
   },
   {
-    "type": "general",
-    "setup": "What's the best thing about elevator jokes?",
-    "punchline": "They work on so many levels."
+    "category": "general",
+    "situation": "What's the best thing about elevator jokes?",
+    "culmination": "They work on so many levels."
   },
   {
-    "type": "general",
-    "setup": "What's the difference between a guitar and a fish?",
-    "punchline": "You can tune a guitar but you can't \"tuna\"fish!"
+    "category": "general",
+    "situation": "What's the difference between a guitar and a fish?",
+    "culmination": "You can tune a guitar but you can't \"tuna\"fish!"
   },
   {
-    "type": "general",
-    "setup": "What's the difference between a hippo and a zippo?",
-    "punchline": "One is really heavy, the other is a little lighter."
+    "category": "general",
+    "situation": "What's the difference between a hippo and a zippo?",
+    "culmination": "One is really heavy, the other is a little lighter."
   },
   {
-    "type": "general",
-    "setup": "What's the difference between a seal and a sea lion?",
-    "punchline": "An ion! "
+    "category": "general",
+    "situation": "What's the difference between a seal and a sea lion?",
+    "culmination": "An ion! "
   },
   {
-    "type": "general",
-    "setup": "What's the worst part about being a cross-eyed teacher?",
-    "punchline": "They can't control their pupils."
+    "category": "general",
+    "situation": "What's the worst part about being a cross-eyed teacher?",
+    "culmination": "They can't control their pupils."
   },
   {
-    "type": "general",
-    "setup": "What's the worst thing about ancient history class?",
-    "punchline": "The teachers tend to Babylon."
+    "category": "general",
+    "situation": "What's the worst thing about ancient history class?",
+    "culmination": "The teachers tend to Babylon."
   },
   {
-    "type": "general",
-    "setup": "What’s brown and sounds like a bell?",
-    "punchline": "Dung!"
+    "category": "general",
+    "situation": "What’s brown and sounds like a bell?",
+    "culmination": "Dung!"
   },
   {
-    "type": "general",
-    "setup": "What’s E.T. short for?",
-    "punchline": "He’s only got little legs."
+    "category": "general",
+    "situation": "What’s E.T. short for?",
+    "culmination": "He’s only got little legs."
   },
   {
-    "type": "general",
-    "setup": "What’s Forest Gump’s Facebook password?",
-    "punchline": "1forest1"
+    "category": "general",
+    "situation": "What’s Forest Gump’s Facebook password?",
+    "culmination": "1forest1"
   },
   {
-    "type": "general",
-    "setup": "What’s the advantage of living in Switzerland?",
-    "punchline": "Well, the flag is a big plus."
+    "category": "general",
+    "situation": "What’s the advantage of living in Switzerland?",
+    "culmination": "Well, the flag is a big plus."
   },
   {
-    "type": "general",
-    "setup": "What’s the difference between an African elephant and an Indian elephant?",
-    "punchline": "About 5000 miles."
+    "category": "general",
+    "situation": "What’s the difference between an African elephant and an Indian elephant?",
+    "culmination": "About 5000 miles."
   },
   {
-    "type": "general",
-    "setup": "When do doctors get angry?",
-    "punchline": "When they run out of patients."
+    "category": "general",
+    "situation": "When do doctors get angry?",
+    "culmination": "When they run out of patients."
   },
   {
-    "type": "general",
-    "setup": "When does a joke become a dad joke?",
-    "punchline": "When it becomes apparent."
+    "category": "general",
+    "situation": "When does a joke become a dad joke?",
+    "culmination": "When it becomes apparent."
   },
   {
-    "type": "general",
-    "setup": "When is a door not a door?",
-    "punchline": "When it's ajar."
+    "category": "general",
+    "situation": "When is a door not a door?",
+    "culmination": "When it's ajar."
   },
   {
-    "type": "general",
-    "setup": "Where did you learn to make ice cream?",
-    "punchline": "Sunday school."
+    "category": "general",
+    "situation": "Where did you learn to make ice cream?",
+    "culmination": "Sunday school."
   },
   {
-    "type": "general",
-    "setup": "Where do bees go to the bathroom?",
-    "punchline": "The BP station."
+    "category": "general",
+    "situation": "Where do bees go to the bathroom?",
+    "culmination": "The BP station."
   },
   {
-    "type": "general",
-    "setup": "Where do hamburgers go to dance?",
-    "punchline": "The meat-ball."
+    "category": "general",
+    "situation": "Where do hamburgers go to dance?",
+    "culmination": "The meat-ball."
   },
   {
-    "type": "general",
-    "setup": "Where do rabbits go after they get married?",
-    "punchline": "On a bunny-moon."
+    "category": "general",
+    "situation": "Where do rabbits go after they get married?",
+    "culmination": "On a bunny-moon."
   },
   {
-    "type": "general",
-    "setup": "Where do sheep go to get their hair cut?",
-    "punchline": "The baa-baa shop."
+    "category": "general",
+    "situation": "Where do sheep go to get their hair cut?",
+    "culmination": "The baa-baa shop."
   },
   {
-    "type": "general",
-    "setup": "Where do you learn to make banana splits?",
-    "punchline": "At sundae school."
+    "category": "general",
+    "situation": "Where do you learn to make banana splits?",
+    "culmination": "At sundae school."
   },
   {
-    "type": "general",
-    "setup": "Where do young cows eat lunch?",
-    "punchline": "In the calf-ateria."
+    "category": "general",
+    "situation": "Where do young cows eat lunch?",
+    "culmination": "In the calf-ateria."
   },
   {
-    "type": "general",
-    "setup": "Where does batman go to the bathroom?",
-    "punchline": "The batroom."
+    "category": "general",
+    "situation": "Where does batman go to the bathroom?",
+    "culmination": "The batroom."
   },
   {
-    "type": "general",
-    "setup": "Where does Fonzie like to go for lunch?",
-    "punchline": "Chick-Fil-Eyyyyyyyy."
+    "category": "general",
+    "situation": "Where does Fonzie like to go for lunch?",
+    "culmination": "Chick-Fil-Eyyyyyyyy."
   },
   {
-    "type": "general",
-    "setup": "Where does Napoleon keep his armies?",
-    "punchline": "In his sleevies."
+    "category": "general",
+    "situation": "Where does Napoleon keep his armies?",
+    "culmination": "In his sleevies."
   },
   {
-    "type": "general",
-    "setup": "Where was the Declaration of Independence signed?",
-    "punchline": "At the bottom! "
+    "category": "general",
+    "situation": "Where was the Declaration of Independence signed?",
+    "culmination": "At the bottom! "
   },
   {
-    "type": "general",
-    "setup": "Where’s the bin?",
-    "punchline": "I haven’t been anywhere!"
+    "category": "general",
+    "situation": "Where’s the bin?",
+    "culmination": "I haven’t been anywhere!"
   },
   {
-    "type": "general",
-    "setup": "Which side of the chicken has more feathers?",
-    "punchline": "The outside."
+    "category": "general",
+    "situation": "Which side of the chicken has more feathers?",
+    "culmination": "The outside."
   },
   {
-    "type": "general",
-    "setup": "Who did the wizard marry?",
-    "punchline": "His ghoul-friend"
+    "category": "general",
+    "situation": "Who did the wizard marry?",
+    "culmination": "His ghoul-friend"
   },
   {
-    "type": "general",
-    "setup": "Who is the coolest Doctor in the hospital?",
-    "punchline": "The hip Doctor!"
+    "category": "general",
+    "situation": "Who is the coolest Doctor in the hospital?",
+    "culmination": "The hip Doctor!"
   },
   {
-    "type": "general",
-    "setup": "Why are fish easy to weigh?",
-    "punchline": "Because they have their own scales."
+    "category": "general",
+    "situation": "Why are fish easy to weigh?",
+    "culmination": "Because they have their own scales."
   },
   {
-    "type": "general",
-    "setup": "Why are fish so smart?",
-    "punchline": "Because they live in schools!"
+    "category": "general",
+    "situation": "Why are fish so smart?",
+    "culmination": "Because they live in schools!"
   },
   {
-    "type": "general",
-    "setup": "Why are ghosts bad liars?",
-    "punchline": "Because you can see right through them!"
+    "category": "general",
+    "situation": "Why are ghosts bad liars?",
+    "culmination": "Because you can see right through them!"
   },
   {
-    "type": "general",
-    "setup": "Why are graveyards so noisy?",
-    "punchline": "Because of all the coffin."
+    "category": "general",
+    "situation": "Why are graveyards so noisy?",
+    "culmination": "Because of all the coffin."
   },
   {
-    "type": "general",
-    "setup": "Why are mummys scared of vacation?",
-    "punchline": "They're afraid to unwind."
+    "category": "general",
+    "situation": "Why are mummys scared of vacation?",
+    "culmination": "They're afraid to unwind."
   },
   {
-    "type": "general",
-    "setup": "Why are oranges the smartest fruit?",
-    "punchline": "Because they are made to concentrate. "
+    "category": "general",
+    "situation": "Why are oranges the smartest fruit?",
+    "culmination": "Because they are made to concentrate. "
   },
   {
-    "type": "general",
-    "setup": "Why are pirates called pirates?",
-    "punchline": "Because they arrr!"
+    "category": "general",
+    "situation": "Why are pirates called pirates?",
+    "culmination": "Because they arrr!"
   },
   {
-    "type": "general",
-    "setup": "Why are skeletons so calm?",
-    "punchline": "Because nothing gets under their skin."
+    "category": "general",
+    "situation": "Why are skeletons so calm?",
+    "culmination": "Because nothing gets under their skin."
   },
   {
-    "type": "general",
-    "setup": "Why can't a bicycle stand on its own?",
-    "punchline": "It's two-tired."
+    "category": "general",
+    "situation": "Why can't a bicycle stand on its own?",
+    "culmination": "It's two-tired."
   },
   {
-    "type": "general",
-    "setup": "Why can't you use \"Beef stew\"as a password?",
-    "punchline": "Because it's not stroganoff."
+    "category": "general",
+    "situation": "Why can't you use \"Beef stew\"as a password?",
+    "culmination": "Because it's not stroganoff."
   },
   {
-    "type": "general",
-    "setup": "Why can't your nose be 12 inches long?",
-    "punchline": "Because then it'd be a foot!"
+    "category": "general",
+    "situation": "Why can't your nose be 12 inches long?",
+    "culmination": "Because then it'd be a foot!"
   },
   {
-    "type": "general",
-    "setup": "Why can’t you hear a pterodactyl go to the bathroom?",
-    "punchline": "The p is silent."
+    "category": "general",
+    "situation": "Why can’t you hear a pterodactyl go to the bathroom?",
+    "culmination": "The p is silent."
   },
   {
-    "type": "general",
-    "setup": "Why couldn't the kid see the pirate movie?",
-    "punchline": "Because it was rated arrr!"
+    "category": "general",
+    "situation": "Why couldn't the kid see the pirate movie?",
+    "culmination": "Because it was rated arrr!"
   },
   {
-    "type": "general",
-    "setup": "Why couldn't the lifeguard save the hippie?",
-    "punchline": "He was too far out, man."
+    "category": "general",
+    "situation": "Why couldn't the lifeguard save the hippie?",
+    "culmination": "He was too far out, man."
   },
   {
-    "type": "general",
-    "setup": "Why did Dracula lie in the wrong coffin?",
-    "punchline": "He made a grave mistake."
+    "category": "general",
+    "situation": "Why did Dracula lie in the wrong coffin?",
+    "culmination": "He made a grave mistake."
   },
   {
-    "type": "general",
-    "setup": "Why did Sweden start painting barcodes on the sides of their battleships?",
-    "punchline": "So they could Scandinavian."
+    "category": "general",
+    "situation": "Why did Sweden start painting barcodes on the sides of their battleships?",
+    "culmination": "So they could Scandinavian."
   },
   {
-    "type": "general",
-    "setup": "Why did the A go to the bathroom and come out as an E?",
-    "punchline": "Because he had a vowel movement."
+    "category": "general",
+    "situation": "Why did the A go to the bathroom and come out as an E?",
+    "culmination": "Because he had a vowel movement."
   },
   {
-    "type": "general",
-    "setup": "Why did the barber win the race?",
-    "punchline": "He took a short cut."
+    "category": "general",
+    "situation": "Why did the barber win the race?",
+    "culmination": "He took a short cut."
   },
   {
-    "type": "general",
-    "setup": "Why did the belt go to prison?",
-    "punchline": "He held up a pair of pants!"
+    "category": "general",
+    "situation": "Why did the belt go to prison?",
+    "culmination": "He held up a pair of pants!"
   },
   {
-    "type": "general",
-    "setup": "Why did the burglar hang his mugshot on the wall?",
-    "punchline": "To prove that he was framed!"
+    "category": "general",
+    "situation": "Why did the burglar hang his mugshot on the wall?",
+    "culmination": "To prove that he was framed!"
   },
   {
-    "type": "general",
-    "setup": "Why did the chicken get a penalty?",
-    "punchline": "For fowl play."
+    "category": "general",
+    "situation": "Why did the chicken get a penalty?",
+    "culmination": "For fowl play."
   },
   {
-    "type": "general",
-    "setup": "Why did the coffee file a police report?",
-    "punchline": "It got mugged."
+    "category": "general",
+    "situation": "Why did the coffee file a police report?",
+    "culmination": "It got mugged."
   },
   {
-    "type": "general",
-    "setup": "Why did the cookie cry?",
-    "punchline": "Because his mother was a wafer so long"
+    "category": "general",
+    "situation": "Why did the cookie cry?",
+    "culmination": "Because his mother was a wafer so long"
   },
   {
-    "type": "general",
-    "setup": "Why did the cookie cry?",
-    "punchline": "It was feeling crumby."
+    "category": "general",
+    "situation": "Why did the cookie cry?",
+    "culmination": "It was feeling crumby."
   },
   {
-    "type": "general",
-    "setup": "Why did the cowboy have a weiner dog?",
-    "punchline": "Somebody told him to get a long little doggy."
+    "category": "general",
+    "situation": "Why did the cowboy have a weiner dog?",
+    "culmination": "Somebody told him to get a long little doggy."
   },
   {
-    "type": "general",
-    "setup": "Why did the fireman wear red, white, and blue suspenders?",
-    "punchline": "To hold his pants up."
+    "category": "general",
+    "situation": "Why did the fireman wear red, white, and blue suspenders?",
+    "culmination": "To hold his pants up."
   },
   {
-    "type": "general",
-    "setup": "Why did the girl smear peanut butter on the road?",
-    "punchline": "To go with the traffic jam."
+    "category": "general",
+    "situation": "Why did the girl smear peanut butter on the road?",
+    "culmination": "To go with the traffic jam."
   },
   {
-    "type": "general",
-    "setup": "Why did the half blind man fall in the well?",
-    "punchline": "Because he couldn't see that well!"
+    "category": "general",
+    "situation": "Why did the half blind man fall in the well?",
+    "culmination": "Because he couldn't see that well!"
   },
   {
-    "type": "general",
-    "setup": "Why did the house go to the doctor?",
-    "punchline": "It was having window panes."
+    "category": "general",
+    "situation": "Why did the house go to the doctor?",
+    "culmination": "It was having window panes."
   },
   {
-    "type": "general",
-    "setup": "Why did the kid cross the playground?",
-    "punchline": "To get to the other slide."
+    "category": "general",
+    "situation": "Why did the kid cross the playground?",
+    "culmination": "To get to the other slide."
   },
   {
-    "type": "general",
-    "setup": "Why did the man put his money in the freezer?",
-    "punchline": "He wanted cold hard cash!"
+    "category": "general",
+    "situation": "Why did the man put his money in the freezer?",
+    "culmination": "He wanted cold hard cash!"
   },
   {
-    "type": "general",
-    "setup": "Why did the man run around his bed?",
-    "punchline": "Because he was trying to catch up on his sleep!"
+    "category": "general",
+    "situation": "Why did the man run around his bed?",
+    "culmination": "Because he was trying to catch up on his sleep!"
   },
   {
-    "type": "general",
-    "setup": "Why did the melons plan a big wedding?",
-    "punchline": "Because they cantaloupe!"
+    "category": "general",
+    "situation": "Why did the melons plan a big wedding?",
+    "culmination": "Because they cantaloupe!"
   },
   {
-    "type": "general",
-    "setup": "Why did the octopus beat the shark in a fight?",
-    "punchline": "Because it was well armed."
+    "category": "general",
+    "situation": "Why did the octopus beat the shark in a fight?",
+    "culmination": "Because it was well armed."
   },
   {
-    "type": "general",
-    "setup": "Why did the opera singer go sailing?",
-    "punchline": "They wanted to hit the high Cs."
+    "category": "general",
+    "situation": "Why did the opera singer go sailing?",
+    "culmination": "They wanted to hit the high Cs."
   },
   {
-    "type": "general",
-    "setup": "Why did the scarecrow win an award?",
-    "punchline": "Because he was outstanding in his field."
+    "category": "general",
+    "situation": "Why did the scarecrow win an award?",
+    "culmination": "Because he was outstanding in his field."
   },
   {
-    "type": "general",
-    "setup": "Why did the tomato blush?",
-    "punchline": "Because it saw the salad dressing."
+    "category": "general",
+    "situation": "Why did the tomato blush?",
+    "culmination": "Because it saw the salad dressing."
   },
   {
-    "type": "general",
-    "setup": "Why did the tree go to the dentist?",
-    "punchline": "It needed a root canal."
+    "category": "general",
+    "situation": "Why did the tree go to the dentist?",
+    "culmination": "It needed a root canal."
   },
   {
-    "type": "general",
-    "setup": "Why did the worker get fired from the orange juice factory?",
-    "punchline": "Lack of concentration."
+    "category": "general",
+    "situation": "Why did the worker get fired from the orange juice factory?",
+    "culmination": "Lack of concentration."
   },
   {
-    "type": "general",
-    "setup": "Why didn't the number 4 get into the nightclub?",
-    "punchline": "Because he is 2 square."
+    "category": "general",
+    "situation": "Why didn't the number 4 get into the nightclub?",
+    "culmination": "Because he is 2 square."
   },
   {
-    "type": "general",
-    "setup": "Why didn’t the orange win the race?",
-    "punchline": "It ran out of juice."
+    "category": "general",
+    "situation": "Why didn’t the orange win the race?",
+    "culmination": "It ran out of juice."
   },
   {
-    "type": "general",
-    "setup": "Why didn’t the skeleton cross the road?",
-    "punchline": "Because he had no guts."
+    "category": "general",
+    "situation": "Why didn’t the skeleton cross the road?",
+    "culmination": "Because he had no guts."
   },
   {
-    "type": "general",
-    "setup": "Why do bananas have to put on sunscreen before they go to the beach?",
-    "punchline": "Because they might peel!"
+    "category": "general",
+    "situation": "Why do bananas have to put on sunscreen before they go to the beach?",
+    "culmination": "Because they might peel!"
   },
   {
-    "type": "general",
-    "setup": "Why do bears have hairy coats?",
-    "punchline": "Fur protection."
+    "category": "general",
+    "situation": "Why do bears have hairy coats?",
+    "culmination": "Fur protection."
   },
   {
-    "type": "general",
-    "setup": "Why do bees have sticky hair?",
-    "punchline": "Because they use honey combs!"
+    "category": "general",
+    "situation": "Why do bees have sticky hair?",
+    "culmination": "Because they use honey combs!"
   },
   {
-    "type": "general",
-    "setup": "Why do bees hum?",
-    "punchline": "Because they don't know the words."
+    "category": "general",
+    "situation": "Why do bees hum?",
+    "culmination": "Because they don't know the words."
   },
   {
-    "type": "general",
-    "setup": "Why do birds fly south for the winter?",
-    "punchline": "Because it's too far to walk."
+    "category": "general",
+    "situation": "Why do birds fly south for the winter?",
+    "culmination": "Because it's too far to walk."
   },
   {
-    "type": "general",
-    "setup": "Why do choirs keep buckets handy?",
-    "punchline": "So they can carry their tune"
+    "category": "general",
+    "situation": "Why do choirs keep buckets handy?",
+    "culmination": "So they can carry their tune"
   },
   {
-    "type": "general",
-    "setup": "Why do crabs never give to charity?",
-    "punchline": "Because they’re shellfish."
+    "category": "general",
+    "situation": "Why do crabs never give to charity?",
+    "culmination": "Because they’re shellfish."
   },
   {
-    "type": "general",
-    "setup": "Why do ducks make great detectives?",
-    "punchline": "They always quack the case."
+    "category": "general",
+    "situation": "Why do ducks make great detectives?",
+    "culmination": "They always quack the case."
   },
   {
-    "type": "general",
-    "setup": "Why do mathematicians hate the U.S.?",
-    "punchline": "Because it's indivisible."
+    "category": "general",
+    "situation": "Why do mathematicians hate the U.S.?",
+    "culmination": "Because it's indivisible."
   },
   {
-    "type": "general",
-    "setup": "Why do pirates not know the alphabet?",
-    "punchline": "They always get stuck at \"C\"."
+    "category": "general",
+    "situation": "Why do pirates not know the alphabet?",
+    "culmination": "They always get stuck at \"C\"."
   },
   {
-    "type": "general",
-    "setup": "Why do pumpkins sit on people’s porches?",
-    "punchline": "They have no hands to knock on the door."
+    "category": "general",
+    "situation": "Why do pumpkins sit on people’s porches?",
+    "culmination": "They have no hands to knock on the door."
   },
   {
-    "type": "general",
-    "setup": "Why do scuba divers fall backwards into the water?",
-    "punchline": "Because if they fell forwards they’d still be in the boat."
+    "category": "general",
+    "situation": "Why do scuba divers fall backwards into the water?",
+    "culmination": "Because if they fell forwards they’d still be in the boat."
   },
   {
-    "type": "general",
-    "setup": "Why do trees seem suspicious on sunny days?",
-    "punchline": "Dunno, they're just a bit shady."
+    "category": "general",
+    "situation": "Why do trees seem suspicious on sunny days?",
+    "culmination": "Dunno, they're just a bit shady."
   },
   {
-    "type": "general",
-    "setup": "Why do valley girls hang out in odd numbered groups?",
-    "punchline": "Because they can't even."
+    "category": "general",
+    "situation": "Why do valley girls hang out in odd numbered groups?",
+    "culmination": "Because they can't even."
   },
   {
-    "type": "general",
-    "setup": "Why do wizards clean their teeth three times a day?",
-    "punchline": "To prevent bat breath!"
+    "category": "general",
+    "situation": "Why do wizards clean their teeth three times a day?",
+    "culmination": "To prevent bat breath!"
   },
   {
-    "type": "general",
-    "setup": "Why do you never see elephants hiding in trees?",
-    "punchline": "Because they're so good at it."
+    "category": "general",
+    "situation": "Why do you never see elephants hiding in trees?",
+    "culmination": "Because they're so good at it."
   },
   {
-    "type": "general",
-    "setup": "Why does a chicken coop only have two doors?",
-    "punchline": "Because if it had four doors it would be a chicken sedan."
+    "category": "general",
+    "situation": "Why does a chicken coop only have two doors?",
+    "culmination": "Because if it had four doors it would be a chicken sedan."
   },
   {
-    "type": "general",
-    "setup": "Why does a Moon-rock taste better than an Earth-rock?",
-    "punchline": "Because it's a little meteor."
+    "category": "general",
+    "situation": "Why does a Moon-rock taste better than an Earth-rock?",
+    "culmination": "Because it's a little meteor."
   },
   {
-    "type": "general",
-    "setup": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?",
-    "punchline": "Because there’s a Shortstop in between!"
+    "category": "general",
+    "situation": "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?",
+    "culmination": "Because there’s a Shortstop in between!"
   },
   {
-    "type": "general",
-    "setup": "Why does Norway have barcodes on their battleships?",
-    "punchline": "So when they get back to port, they can Scandinavian."
+    "category": "general",
+    "situation": "Why does Norway have barcodes on their battleships?",
+    "culmination": "So when they get back to port, they can Scandinavian."
   },
   {
-    "type": "general",
-    "setup": "Why does Superman get invited to dinners?",
-    "punchline": "Because he is a Supperhero."
+    "category": "general",
+    "situation": "Why does Superman get invited to dinners?",
+    "culmination": "Because he is a Supperhero."
   },
   {
-    "type": "general",
-    "setup": "Why does Waldo only wear stripes?",
-    "punchline": "Because he doesn't want to be spotted."
+    "category": "general",
+    "situation": "Why does Waldo only wear stripes?",
+    "culmination": "Because he doesn't want to be spotted."
   },
   {
-    "type": "programming",
-    "setup": "Knock-knock.",
-    "punchline": "A race condition. Who is there?"
+    "category": "programming",
+    "situation": "Knock-knock.",
+    "culmination": "A race condition. Who is there?"
   },
   {
-    "type": "programming",
-    "setup": "What's the best part about TCP jokes?",
-    "punchline": "I get to keep telling them until you get them."
+    "category": "programming",
+    "situation": "What's the best part about TCP jokes?",
+    "culmination": "I get to keep telling them until you get them."
   },
   {
-    "type": "programming",
-    "setup": "A programmer puts two glasses on his bedside table before going to sleep.",
-    "punchline": "A full one, in case he gets thirsty, and an empty one, in case he doesn’t."
+    "category": "programming",
+    "situation": "A programmer puts two glasses on his bedside table before going to sleep.",
+    "culmination": "A full one, in case he gets thirsty, and an empty one, in case he doesn’t."
   },
   {
-    "type": "general",
-    "setup": "Two guys walk into a bar . . .",
-    "punchline": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\""
+    "category": "general",
+    "situation": "Two guys walk into a bar . . .",
+    "culmination": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\""
   },
   {
-    "type": "programming",
-    "setup": "What did the router say to the doctor?",
-    "punchline": "It hurts when IP."
+    "category": "programming",
+    "situation": "What did the router say to the doctor?",
+    "culmination": "It hurts when IP."
   },
   {
-    "type": "programming",
-    "setup": "An IPv6 packet is walking out of the house.",
-    "punchline": "He goes nowhere."
+    "category": "programming",
+    "situation": "An IPv6 packet is walking out of the house.",
+    "culmination": "He goes nowhere."
   },
   {
-    "type": "programming",
-    "setup": "A DHCP packet walks into a bar and asks for a beer.",
-    "punchline": "Bartender says, \"here, but I’ll need that back in an hour!\""
+    "category": "programming",
+    "situation": "A DHCP packet walks into a bar and asks for a beer.",
+    "culmination": "Bartender says, \"here, but I’ll need that back in an hour!\""
   },
   {
-    "type": "programming",
-    "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
-    "punchline": "They couldn't find a table."
+    "category": "programming",
+    "situation": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
+    "culmination": "They couldn't find a table."
   },
   {
-    "type": "general",
-    "setup": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’",
-    "punchline": "I couldn’t turn it down."
+    "category": "general",
+    "situation": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’",
+    "culmination": "I couldn’t turn it down."
   },
   {
-    "type": "programming",
-    "setup": "What’s the object-oriented way to become wealthy?",
-    "punchline": "Inheritance."
+    "category": "programming",
+    "situation": "What’s the object-oriented way to become wealthy?",
+    "culmination": "Inheritance."
   },
   {
-    "type": "general",
-    "setup": "What do you call a bee that can't make up its mind?",
-    "punchline": "A maybe."
+    "category": "general",
+    "situation": "What do you call a bee that can't make up its mind?",
+    "culmination": "A maybe."
   },
   {
-    "type": "general",
-    "setup": "Why was Cinderalla thrown out of the football team?",
-    "punchline": "Because she ran away from the ball."
+    "category": "general",
+    "situation": "Why was Cinderalla thrown out of the football team?",
+    "culmination": "Because she ran away from the ball."
   },
   {
-    "type": "general",
-    "setup": "What kind of music do welders like?",
-    "punchline": "Heavy metal."
+    "category": "general",
+    "situation": "What kind of music do welders like?",
+    "culmination": "Heavy metal."
   },
   {
-    "type": "general",
-    "setup": "Why are “Dad Jokes” so good?",
-    "punchline": "Because the punchline is apparent."
+    "category": "general",
+    "situation": "Why are “Dad Jokes” so good?",
+    "culmination": "Because the culmination is apparent."
   },
   {
-    "type": "programming",
-    "setup": "Why dot net developers don't wear glasses?",
-    "punchline": "Because they see sharp."
+    "category": "programming",
+    "situation": "Why dot net developers don't wear glasses?",
+    "culmination": "Because they see sharp."
   },
   {
-    "type": "general",
-    "setup": "Why is seven bigger than nine?",
-    "punchline": "Because seven ate nine."
+    "category": "general",
+    "situation": "Why is seven bigger than nine?",
+    "culmination": "Because seven ate nine."
   },
   {
-    "type": "dad",
-    "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-    "punchline": "In case they get a hole in one!"
+    "category": "dad",
+    "situation": "Why do fathers take an extra pair of socks when they go golfing?",
+    "culmination": "In case they get a hole in one!"
   },
   {
-    "type": "general",
-    "setup": "What do you call a suspicious looking laptop?",
-    "punchline": "Asus"
+    "category": "general",
+    "situation": "What do you call a suspicious looking laptop?",
+    "culmination": "Asus"
   },
   {
-    "type": "programming",
-    "setup": "What did the Java code say to the C code?",
-    "punchline": "You've got no class."
+    "category": "programming",
+    "situation": "What did the Java code say to the C code?",
+    "culmination": "You've got no class."
   },
   {
-    "type": "programming",
-    "setup": "What is the most used language in programming?",
-    "punchline": "Profanity."
+    "category": "programming",
+    "situation": "What is the most used language in programming?",
+    "culmination": "Profanity."
   },
   {
-    "type": "programming",
-    "setup": "Why do programmers always get Christmas and Halloween mixed up?",
-    "punchline": "Because DEC 25 = OCT 31"
+    "category": "programming",
+    "situation": "Why do programmers always get Christmas and Halloween mixed up?",
+    "culmination": "Because DEC 25 = OCT 31"
   },
   {
-    "type": "programming",
-    "setup": "What goes after USA?",
-    "punchline": "USB."
+    "category": "programming",
+    "situation": "What goes after USA?",
+    "culmination": "USB."
   },
   {
-    "type": "dad",
-    "setup": "Why don't eggs tell jokes?",
-    "punchline": "Because they would crack each other up."
+    "category": "dad",
+    "situation": "Why don't eggs tell jokes?",
+    "culmination": "Because they would crack each other up."
   },
   {
-    "type": "general",
-    "setup": "How do you make the number one disappear?",
-    "punchline": "Add the letter G and it’s “gone”!"
+    "category": "general",
+    "situation": "How do you make the number one disappear?",
+    "culmination": "Add the letter G and it’s “gone”!"
   },
   {
-    "type": "general",
-    "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
-    "punchline": "I had to draw my own conclusions."
+    "category": "general",
+    "situation": "My older brother always tore the last pages of my comic books, and never told me why.",
+    "culmination": "I had to draw my own conclusions."
   },
   {
-    "type": "general",
-    "setup": "The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.",
-    "punchline": "Thank you very much, sir."
+    "category": "general",
+    "situation": "The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.",
+    "culmination": "Thank you very much, sir."
   },
   {
-    "type": "general",
-    "setup": "Why does Waldo only wear stripes?",
-    "punchline": "Because he doesn't want to be spotted."
+    "category": "general",
+    "situation": "Why does Waldo only wear stripes?",
+    "culmination": "Because he doesn't want to be spotted."
   },
   {
-    "type": "general",
-    "setup": "Why did the kid throw the watch out the window?",
-    "punchline": "So time would fly."
+    "category": "general",
+    "situation": "Why did the kid throw the watch out the window?",
+    "culmination": "So time would fly."
   },
   {
-    "type": "programming",
-    "setup": "Where did the API go to eat?",
-    "punchline": "To the RESTaurant."
+    "category": "programming",
+    "situation": "Where did the API go to eat?",
+    "culmination": "To the RESTaurant."
   },
   {
-    "type": "general",
-    "setup": "Why did the rooster cross the road?",
-    "punchline": "He heard that the chickens at KFC were pretty hot."
+    "category": "general",
+    "situation": "Why did the rooster cross the road?",
+    "culmination": "He heard that the chickens at KFC were pretty hot."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the Viking who was reincarnated?",
-    "punchline": "He was Bjorn again"
+    "category": "general",
+    "situation": "Did you hear about the Viking who was reincarnated?",
+    "culmination": "He was Bjorn again"
   },
   {
-    "type": "general",
-    "setup": "What does the mermaid wear to math class?",
-    "punchline": "Algae-bra."
+    "category": "general",
+    "situation": "What does the mermaid wear to math class?",
+    "culmination": "Algae-bra."
   },
   {
-    "type": "general",
-    "setup": "Did you hear about the crime in the parking garage?",
-    "punchline": "It was wrong on so many levels."
+    "category": "general",
+    "situation": "Did you hear about the crime in the parking garage?",
+    "culmination": "It was wrong on so many levels."
   },
   {
-    "type": "programming",
-    "setup": "Hey, wanna hear a joke?",
-    "punchline": "Parsing HTML with regex."
+    "category": "programming",
+    "situation": "Hey, wanna hear a joke?",
+    "culmination": "Parsing HTML with regex."
   },
   {
-    "type": "general",
-    "setup": "Why didn't the skeleton go for prom?",
-    "punchline": "Because it had nobody."
+    "category": "general",
+    "situation": "Why didn't the skeleton go for prom?",
+    "culmination": "Because it had nobody."
   },
   {
-    "type": "general",
-    "setup": "A grocery store cashier asked if I would like my milk in a bag.",
-    "punchline": "I told her 'No, thanks. The carton works fine.'"
+    "category": "general",
+    "situation": "A grocery store cashier asked if I would like my milk in a bag.",
+    "culmination": "I told her 'No, thanks. The carton works fine.'"
   },
   {
-    "type": "general",
-    "setup": "99.9% of the people are dumb!",
-    "punchline": "Fortunately I belong to the remaining 1%"
+    "category": "general",
+    "situation": "99.9% of the people are dumb!",
+    "culmination": "Fortunately I belong to the remaining 1%"
   },
   {
-    "type": "programming",
-    "setup": "I just got fired from my job at the keyboard factory.",
-    "punchline": "They told me I wasn't putting in enough shifts."
+    "category": "programming",
+    "situation": "I just got fired from my job at the keyboard factory.",
+    "culmination": "They told me I wasn't putting in enough shifts."
   },
   {
-    "type": "general",
-    "setup": "You see, mountains aren't just funny.",
-    "punchline": "They are hill areas."
+    "category": "general",
+    "situation": "You see, mountains aren't just funny.",
+    "culmination": "They are hill areas."
   },
   {
-    "type": "general",
-    "setup": "What do elves post on Social Media?",
-    "punchline": "Elf-ies."
+    "category": "general",
+    "situation": "What do elves post on Social Media?",
+    "culmination": "Elf-ies."
   },
   {
-    "type": "general",
-    "setup": "While I was sleeping my friends decided to write math equations on me.",
-    "punchline": "You should have seen the expression on my face when I woke up."
+    "category": "general",
+    "situation": "While I was sleeping my friends decided to write math equations on me.",
+    "culmination": "You should have seen the expression on my face when I woke up."
   },
   {
-    "type": "general",
-    "setup": "Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.",
-    "punchline": "You can only use a low ha."
+    "category": "general",
+    "situation": "Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.",
+    "culmination": "You can only use a low ha."
   },
   {
-    "type": "general",
-    "setup": "Why are football stadiums so cool?",
-    "punchline": "Because every seat has a fan in it."
+    "category": "general",
+    "situation": "Why are football stadiums so cool?",
+    "culmination": "Because every seat has a fan in it."
   },
   {
-    "type": "programming",
-    "setup": "How do you generate a random string?",
-    "punchline": "Put a Windows user in front of Vim and tell them to exit."
+    "category": "programming",
+    "situation": "How do you generate a random string?",
+    "culmination": "Put a Windows user in front of Vim and tell them to exit."
   },
   {
-    "type": "programming",
-    "setup": "Why did the functions stop calling each other?",
-    "punchline": "Because they had constant arguments."
+    "category": "programming",
+    "situation": "Why did the functions stop calling each other?",
+    "culmination": "Because they had constant arguments."
   },
   {
-    "type": "programming",
-    "setup": "Why did the private classes break up?",
-    "punchline": "Because they never saw each other."
+    "category": "programming",
+    "situation": "Why did the private classes break up?",
+    "culmination": "Because they never saw each other."
   },
   {
-    "type": "programming",
-    "setup": "Why did the developer quit his job?",
-    "punchline": "Because he didn't get arrays."
+    "category": "programming",
+    "situation": "Why did the developer quit his job?",
+    "culmination": "Because he didn't get arrays."
   },
   {
-    "type": "programming",
-    "setup": "What's the best thing about a Boolean?",
-    "punchline": "Even if you're wrong, you're only off by a bit."
+    "category": "programming",
+    "situation": "What's the best thing about a Boolean?",
+    "culmination": "Even if you're wrong, you're only off by a bit."
   },
   {
-    "type": "programming",
-    "setup": "How many React developers does it take to change a lightbulb?",
-    "punchline": "None, they prefer dark mode."
+    "category": "programming",
+    "situation": "How many React developers does it take to change a lightbulb?",
+    "culmination": "None, they prefer dark mode."
   },
   {
-    "type": "programming",
-    "setup": "Why don't React developers like nature?",
-    "punchline": "They prefer the virtual DOM."
+    "category": "programming",
+    "situation": "Why don't React developers like nature?",
+    "culmination": "They prefer the virtual DOM."
   },
   {
-    "type": "programming",
-    "setup": "What do you get when you cross a React developer with a mathematician?",
-    "punchline": "A function component."
+    "category": "programming",
+    "situation": "What do you get when you cross a React developer with a mathematician?",
+    "culmination": "A function component."
   },
   {
-    "type": "programming",
-    "setup": "Why did the developer go broke buying Bitcoin?",
-    "punchline": "He kept calling it bytecoin and didn't get any."
+    "category": "programming",
+    "situation": "Why did the developer go broke buying Bitcoin?",
+    "culmination": "He kept calling it bytecoin and didn't get any."
   },
   {
-      "type": "programming",
-      "setup": "Why did the programmer go to art school?",
-      "punchline": "He wanted to learn how to code outside the box."
+      "category": "programming",
+      "situation": "Why did the programmer go to art school?",
+      "culmination": "He wanted to learn how to code outside the box."
   },
   {
-      "type": "programming",
-      "setup": "Why did the programmer's wife leave him?",
-      "punchline": "He didn't know how to commit."
+      "category": "programming",
+      "situation": "Why did the programmer's wife leave him?",
+      "culmination": "He didn't know how to commit."
   },
   {
-      "type": "programming",
-      "setup": "Why do programmers prefer dark chocolate?",
-      "punchline": "Because it's bitter like their code."
+      "category": "programming",
+      "situation": "Why do programmers prefer dark chocolate?",
+      "culmination": "Because it's bitter like their code."
   },
   {
-      "type": "programming",
-      "setup": "Why did the programmer go broke?",
-      "punchline": "He used up all his cache"
+      "category": "programming",
+      "situation": "Why did the programmer go broke?",
+      "culmination": "He used up all his cache"
   },
   {
-      "type": "programming",
-      "setup": "Why did the programmer always mix up Halloween and Christmas?",
-      "punchline": "Because Oct 31 equals Dec 25."
+      "category": "programming",
+      "situation": "Why did the programmer always mix up Halloween and Christmas?",
+      "culmination": "Because Oct 31 equals Dec 25."
   },
   {
-      "type": "programming",
-      "setup": "Why don't programmers like nature?",
-      "punchline": "There's too many bugs."
+      "category": "programming",
+      "situation": "Why don't programmers like nature?",
+      "culmination": "There's too many bugs."
   },
   {
-      "type": "programming",
-      "setup": "Why was the JavaScript developer sad?",
-      "punchline": "He didn't know how to null his feelings."
+      "category": "programming",
+      "situation": "Why was the JavaScript developer sad?",
+      "culmination": "He didn't know how to null his feelings."
   },
   {
-    "type": "general",
-    "setup": "Why couldn't the bicycle stand up by itself?",
-    "punchline": "It was two-tired."
+    "category": "general",
+    "situation": "Why couldn't the bicycle stand up by itself?",
+    "culmination": "It was two-tired."
   },
   {
-    "type": "general",
-    "setup": "Why did the math book look sad?",
-    "punchline": "Because it had too many problems."
+    "category": "general",
+    "situation": "Why did the math book look sad?",
+    "culmination": "Because it had too many problems."
   },
   {
-    "type": "general",
-    "setup": "What's a computer's favorite snack?",
-    "punchline": "Microchips."
+    "category": "general",
+    "situation": "What's a computer's favorite snack?",
+    "culmination": "Microchips."
   },
   {
-    "type": "general",
-    "setup": "What did the janitor say when he jumped out of the closet?",
-    "punchline": "Supplies!"
+    "category": "general",
+    "situation": "What did the janitor say when he jumped out of the closet?",
+    "culmination": "Supplies!"
   },
   {
-    "type": "general",
-    "setup": "What did one ocean say to the other ocean?",
-    "punchline": "Nothing, they just waved."
+    "category": "general",
+    "situation": "What did one ocean say to the other ocean?",
+    "culmination": "Nothing, they just waved."
   },
   {
-    "type": "general",
-    "setup": "What's the best thing about Switzerland?",
-    "punchline": "I don't know, but their flag is a big plus."
+    "category": "general",
+    "situation": "What's the best thing about Switzerland?",
+    "culmination": "I don't know, but their flag is a big plus."
   },
   {
-    "type": "general",
-    "setup": "Why did the golfer bring two pairs of pants?",
-    "punchline": "In case he got a hole in one."
+    "category": "general",
+    "situation": "Why did the golfer bring two pairs of pants?",
+    "culmination": "In case he got a hole in one."
   },
   {
-    "type": "general",
-    "setup": "Why did the chicken cross the playground?",
-    "punchline": "To get to the other slide."
+    "category": "general",
+    "situation": "Why did the chicken cross the playground?",
+    "culmination": "To get to the other slide."
   },
   {
-    "type": "general",
-    "setup": "Why don't scientists trust atoms?",
-    "punchline": "Because they make up everything."
+    "category": "general",
+    "situation": "Why don't scientists trust atoms?",
+    "culmination": "Because they make up everything."
   },
   {
-    "type": "general",
-    "setup": "Why did the scarecrow win an award?",
-    "punchline": "Because he was outstanding in his field."
+    "category": "general",
+    "situation": "Why did the scarecrow win an award?",
+    "culmination": "Because he was outstanding in his field."
   },
   {
-    "type": "general",
-    "setup": "Why did the coffee file a police report?",
-    "punchline": "It got mugged."
+    "category": "general",
+    "situation": "Why did the coffee file a police report?",
+    "culmination": "It got mugged."
   },
   {
-    "type": "general",
-    "setup": "Why don't oysters give to charity?",
-    "punchline": "Because they're shellfish."
+    "category": "general",
+    "situation": "Why don't oysters give to charity?",
+    "culmination": "Because they're shellfish."
   },
   {
-    "type": "general",
-    "setup": "Why did the golfer wear two pairs of pants?",
-    "punchline": "In case he got a hole in one."
+    "category": "general",
+    "situation": "Why did the golfer wear two pairs of pants?",
+    "culmination": "In case he got a hole in one."
   },
   {
-    "type": "general",
-    "setup": "Why did the cookie go to the doctor?",
-    "punchline": " Because it was feeling crumbly."
+    "category": "general",
+    "situation": "Why did the cookie go to the doctor?",
+    "culmination": " Because it was feeling crumbly."
   },
   {
-    "type": "programming",
-    "setup": "What do you call a computer mouse that swears a lot?",
-    "punchline": "A cursor!"
+    "category": "programming",
+    "situation": "What do you call a computer mouse that swears a lot?",
+    "culmination": "A cursor!"
   },
   {
-    "type": "programming",
-    "setup": "Why did the designer break up with their font?",
-    "punchline": "Because it wasn't their type."
+    "category": "programming",
+    "situation": "Why did the designer break up with their font?",
+    "culmination": "Because it wasn't their category."
   },
   {
-    "type": "programming",
-    "setup": "Why did the programmer quit their job?",
-    "punchline": "They didn't get arrays."
+    "category": "programming",
+    "situation": "Why did the programmer quit their job?",
+    "culmination": "They didn't get arrays."
   },
   {
-    "type": "programming",
-    "setup": "Why did the developer go broke?",
-    "punchline": "They kept spending all their cache."
+    "category": "programming",
+    "situation": "Why did the developer go broke?",
+    "culmination": "They kept spending all their cache."
   },
   {
-    "type": "programming",
-    "setup": "How do you comfort a designer?",
-    "punchline": "You give them some space... between the elements."
+    "category": "programming",
+    "situation": "How do you comfort a designer?",
+    "culmination": "You give them some space... between the elements."
   },
   {
-    "type": "programming",
-    "setup": "Why don't programmers like nature?",
-    "punchline": "Too many bugs."
+    "category": "programming",
+    "situation": "Why don't programmers like nature?",
+    "culmination": "Too many bugs."
   },
   {
-    "type": "programming",
-    "setup": "Why did the programmer bring a ladder to work?",
-    "punchline": "They heard the code needed to be debugged from a higher level."
+    "category": "programming",
+    "situation": "Why did the programmer bring a ladder to work?",
+    "culmination": "They heard the code needed to be debugged from a higher level."
   },
   {
-    "type": "general",
-    "setup": "Why was the developer always calm?",
-    "punchline": "Because they knew how to handle exceptions."
+    "category": "general",
+    "situation": "Why was the developer always calm?",
+    "culmination": "Because they knew how to handle exceptions."
   },
   {
-    "type": "programming",
-    "setup": "Why was the font always tired?",
-    "punchline": "It was always bold."
+    "category": "programming",
+    "situation": "Why was the font always tired?",
+    "culmination": "It was always bold."
   },
   {
-    "type": "programming",
-    "setup": "Why did the developer go to therapy?",
-    "punchline": "They had too many unresolved issues."
+    "category": "programming",
+    "situation": "Why did the developer go to therapy?",
+    "culmination": "They had too many unresolved issues."
   },
   {
-    "type": "programming",
-    "setup": "Why was the designer always cold?",
-    "punchline": "Because they always used too much ice-olation."
+    "category": "programming",
+    "situation": "Why was the designer always cold?",
+    "culmination": "Because they always used too much ice-olation."
   },
   {
-    "type": "programming",
-    "setup": "Why did the programmer bring a broom to work?",
-    "punchline": "To clean up all the bugs."
+    "category": "programming",
+    "situation": "Why did the programmer bring a broom to work?",
+    "culmination": "To clean up all the bugs."
   },
   {
-    "type": "programming",
-    "setup": "Why did the developer break up with their keyboard?",
-    "punchline": "It just wasn't their type anymore."
+    "category": "programming",
+    "situation": "Why did the developer break up with their keyboard?",
+    "culmination": "It just wasn't their category anymore."
   },
   {
-    "type": "programming",
-    "setup": "Why did the programmer always carry a pencil?",
-    "punchline": "They preferred to write in C#."
+    "category": "programming",
+    "situation": "Why did the programmer always carry a pencil?",
+    "culmination": "They preferred to write in C#."
   },
   {
-    "type": "general",
-    "setup": "Why don't skeletons fight each other?",
-    "punchline": "They don't have the guts."
+    "category": "general",
+    "situation": "Why don't skeletons fight each other?",
+    "culmination": "They don't have the guts."
   },
   {
-    "type": "general",
-    "setup": "What do you call fake spaghetti?",
-    "punchline": "An impasta."
+    "category": "general",
+    "situation": "What do you call fake spaghetti?",
+    "culmination": "An impasta."
   },
   {
-    "type": "general",
-    "setup": "What do you call a thieving alligator?",
-    "punchline": "A crookodile!"
+    "category": "general",
+    "situation": "What do you call a thieving alligator?",
+    "culmination": "A crookodile!"
   }
 ]
