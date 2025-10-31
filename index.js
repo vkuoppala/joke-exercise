@@ -19,6 +19,10 @@ app.get('/ping', (req, res) => {
   res.send('pong');
 });
 
+app.get('/jokes/count', (req, res) => {
+  res.json(countJokes());
+});
+
 app.get('/random_joke', (req, res) => {
   res.json(randomJoke());
 });

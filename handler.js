@@ -30,6 +30,10 @@ const randomN = (jokeArray, n) => {
 
 const randomTen = () => randomN(jokes, 10);
 
+const countJokes = () =>  {
+  return count;
+};
+
 const randomSelect = (number) => randomN(jokes, number);
 
 const jokeByType = (type, n) => {
