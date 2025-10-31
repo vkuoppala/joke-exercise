@@ -1,6 +1,6 @@
 const express = require('express');
 const LimitingMiddleware = require('limiting-middleware');
-const { types, randomJoke, randomTen, randomSelect, jokeByType, jokeById, count } = require('./handler');
+const { types, randomJoke, randomTen, randomSelect, jokeByType, jokeById, countJokes, count } = require('./handler');
 
 const app = express();
 

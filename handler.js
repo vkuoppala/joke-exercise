@@ -48,4 +48,4 @@ const count = Object.keys(jokes).length;
  */
 const jokeById = (id) => (jokes.filter(jk => jk.id === id)[0]);
 
-module.exports = { jokes, types, randomJoke, randomN, randomTen, randomSelect, jokeById, jokeByType, count };
+module.exports = { jokes, types, randomJoke, randomN, randomTen, randomSelect, jokeById, jokeByType, countJokes, count };
